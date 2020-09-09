@@ -1,0 +1,5707 @@
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=overlapped-by
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=overlapped-by
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=overlaps
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=vague
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=contains
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=during
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=after
+
+A036n_PN2b_00003-4	10	発生	e1	41	者	root	|reltype=before

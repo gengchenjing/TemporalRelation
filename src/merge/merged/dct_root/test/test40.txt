@@ -1,0 +1,5707 @@
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=overlapped-by
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=overlapped-by
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=overlaps
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=vague
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=contains
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=during
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=after
+
+A040n_PN3b_00003-2	2	狙う	e1	5	武田	root	|reltype=before

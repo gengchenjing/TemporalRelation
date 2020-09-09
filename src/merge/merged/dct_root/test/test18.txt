@@ -1,0 +1,5707 @@
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=overlapped-by
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=overlapped-by
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=overlaps
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=vague
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=contains
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=during
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=after
+
+A018n_PN1g_00002-4	26	共同	e1	33	し	root	|reltype=before

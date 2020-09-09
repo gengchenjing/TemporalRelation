@@ -1,0 +1,48 @@
+# sent_id = A005n_PN2e_00001-5
+# text = 水田のあぜ道などに放置された廃タイヤの一掃が目的。
+1	水田	水田	NOUN	名詞-普通名詞-一般	_	3	nmod	_	BunsetuPosition=B|JPYomi=スイデン|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+2	の	の	ADP	助詞-格助詞	_	1	case	_	BunsetuPosition=I|JPYomi=ノ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+3	あぜ道	畦道	NOUN	名詞-普通名詞-一般	_	7	obl	_	BunsetuPosition=B|JPYomi=アゼミチ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+4	など	など	ADP	助詞-副助詞	_	3	case	_	BunsetuPosition=I|JPYomi=ナド|BunsetuPositionType=FUNC|SpaceAfter=No
+5	に	に	ADP	助詞-格助詞	_	3	case	_	BunsetuPosition=I|JPYomi=ニ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+6	放置	放置	VERB	名詞-普通名詞-サ変可能	_	7	aux	_	BunsetuPosition=B|JPYomi=ホウチ|BunsetuPositionType=CONT|SpaceAfter=No
+7	さ	為る	AUX	動詞-非自立可能	_	11	acl	_	BunsetuPosition=I|JPYomi=スル|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+8	れ	れる	AUX	助動詞	_	7	aux	_	BunsetuPosition=I|JPYomi=レル|BunsetuPositionType=FUNC|SpaceAfter=No
+9	た	た	AUX	助動詞	_	7	aux	_	BunsetuPosition=I|JPYomi=タ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+10	廃	廃	NOUN	接頭辞	_	11	compound	_	BunsetuPosition=B|JPYomi=ハイ|BunsetuPositionType=CONT|SpaceAfter=No
+11	タイヤ	タイヤ	NOUN	名詞-普通名詞-一般	_	13	nmod	_	BunsetuPosition=I|JPYomi=タイヤ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+12	の	の	ADP	助詞-格助詞	_	11	case	_	BunsetuPosition=I|JPYomi=ノ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+13	一掃	一掃	NOUN	名詞-普通名詞-サ変可能	_	15	nsubj	_	BunsetuPosition=B|JPYomi=イッソウ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+14	が	が	ADP	助詞-格助詞	_	13	case	_	BunsetuPosition=I|JPYomi=ガ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+15	目的	目的	NOUN	名詞-普通名詞-一般	_	0	root	_	BunsetuPosition=B|JPYomi=モクテキ|BunsetuPositionType=ROOT|SpaceAfter=No
+16	。	。	PUNCT	補助記号-句点	_	15	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+
+# sent_id = A005n_PN2e_00001-10
+# text = 今回の回収費用は千六百万―千八百万円かかる見込みで、同町が六百万円を補助する。
+1	今回	今回	NOUN	名詞-普通名詞-副詞可能	_	4	nmod	_	BunsetuPosition=B|JPYomi=コンカイ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+2	の	の	ADP	助詞-格助詞	_	1	case	_	BunsetuPosition=I|JPYomi=ノ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+3	回収	回収	NOUN	名詞-普通名詞-サ変可能	_	4	compound	_	BunsetuPosition=B|JPYomi=カイシュウ|BunsetuPositionType=CONT|SpaceAfter=No
+4	費用	費用	NOUN	名詞-普通名詞-一般	_	15	iobj	_	BunsetuPosition=I|JPYomi=ヒヨウ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+5	は	は	ADP	助詞-係助詞	_	4	case	_	BunsetuPosition=I|JPYomi=ハ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+6	千	千	NUM	名詞-数詞	_	13	nummod	_	BunsetuPosition=B|JPYomi=セン|BunsetuPositionType=CONT|SpaceAfter=No
+7	六百	六百	NUM	名詞-数詞	_	13	nummod	_	BunsetuPosition=I|JPYomi=ロッピャク|BunsetuPositionType=CONT|SpaceAfter=No
+8	万	万	NUM	名詞-数詞	_	13	nummod	_	BunsetuPosition=I|JPYomi=マン|BunsetuPositionType=CONT|SpaceAfter=No
+9	―	―	PUNCT	補助記号-一般	_	13	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+10	千	千	NUM	名詞-数詞	_	13	nummod	_	BunsetuPosition=I|JPYomi=セン|BunsetuPositionType=CONT|SpaceAfter=No
+11	八百	八百	NUM	名詞-数詞	_	13	nummod	_	BunsetuPosition=I|JPYomi=ハッピャク|BunsetuPositionType=CONT|SpaceAfter=No
+12	万	万	NUM	名詞-数詞	_	13	nummod	_	BunsetuPosition=I|JPYomi=マン|BunsetuPositionType=CONT|SpaceAfter=No
+13	円	円	NOUN	名詞-普通名詞-助数詞可能	_	14	nmod	_	BunsetuPosition=I|JPYomi=エン|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+14	かかる	掛かる	VERB	動詞-非自立可能	_	15	acl	_	BunsetuPosition=B|JPYomi=カカル|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+15	見込み	見込み	NOUN	名詞-普通名詞-一般	_	25	nmod	_	BunsetuPosition=B|JPYomi=ミコミ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+16	で	だ	AUX	助動詞	_	15	aux	_	BunsetuPosition=I|JPYomi=ダ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+17	、	、	PUNCT	補助記号-読点	_	15	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+18	同町	同町	NOUN	名詞-普通名詞-一般	_	25	nsubj	_	BunsetuPosition=B|JPYomi=ドウチョウ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+19	が	が	ADP	助詞-格助詞	_	18	case	_	BunsetuPosition=I|JPYomi=ガ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+20	六百	六百	NUM	名詞-数詞	_	22	nummod	_	BunsetuPosition=B|JPYomi=ロッピャク|BunsetuPositionType=CONT|SpaceAfter=No
+21	万	万	NUM	名詞-数詞	_	22	nummod	_	BunsetuPosition=I|JPYomi=マン|BunsetuPositionType=CONT|SpaceAfter=No
+22	円	円	NOUN	名詞-普通名詞-助数詞可能	_	25	obj	_	BunsetuPosition=I|JPYomi=エン|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+23	を	を	ADP	助詞-格助詞	_	22	case	_	BunsetuPosition=I|JPYomi=ヲ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+24	補助	補助	VERB	名詞-普通名詞-サ変可能	_	25	aux	_	BunsetuPosition=B|JPYomi=ホジョ|BunsetuPositionType=CONT|SpaceAfter=No
+25	する	為る	AUX	動詞-非自立可能	_	0	root	_	BunsetuPosition=I|JPYomi=スル|BunsetuPositionType=ROOT|SpaceAfter=No
+26	。	。	PUNCT	補助記号-句点	_	25	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+

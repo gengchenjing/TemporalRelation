@@ -1,0 +1,5707 @@
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=overlapped-by
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=overlapped-by
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=overlaps
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=vague
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=contains
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=during
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=after
+
+A009n_PN4b_00001-3	14	行わ	e1	62	し	root	|reltype=before

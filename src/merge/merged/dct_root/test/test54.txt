@@ -1,0 +1,5707 @@
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=overlapped-by
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=overlapped-by
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=overlaps
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=vague
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=contains
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=during
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=after
+
+A054n_PN3b_00004-2	2	過ごす	e1	2	過ごす	root	|reltype=before

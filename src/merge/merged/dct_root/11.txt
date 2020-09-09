@@ -1,0 +1,9 @@
+A011n_PN4f_00001-13	34	調べる	root
+A011n_PN4f_00001-19	57	起き	root
+A011n_PN4f_00001-30	11	分	root
+A011n_PN4f_00001-31	74	分かっ	root
+A011n_PN4f_00001-32	52	方針	root
+A011n_PN4f_00001-34	25	外	root
+A011n_PN4f_00001-35	36	み	root
+A011n_PN4f_00001-36	56	持た	root
+

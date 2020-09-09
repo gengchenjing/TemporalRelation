@@ -1,0 +1,5707 @@
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=overlapped-by
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=overlapped-by
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=overlaps
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=vague
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=contains
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=during
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=after
+
+A041n_PN3d_00003-3	29	受け	e1	35	退い	root	|reltype=before

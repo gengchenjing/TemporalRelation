@@ -1,0 +1,5707 @@
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=overlapped-by
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=overlapped-by
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=overlaps
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=vague
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=contains
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=during
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=after
+
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root	|reltype=before

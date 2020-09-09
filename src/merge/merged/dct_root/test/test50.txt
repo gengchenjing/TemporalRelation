@@ -1,0 +1,5707 @@
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=overlapped-by
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=overlapped-by
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=overlaps
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=vague
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=contains
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=during
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=after
+
+A050n_PN2b_00004-2	3	認める	e1	3	認める	root	|reltype=before

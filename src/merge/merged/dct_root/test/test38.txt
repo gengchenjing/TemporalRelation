@@ -1,0 +1,5707 @@
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=overlapped-by
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=overlapped-by
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=overlaps
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=vague
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=contains
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=during
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=after
+
+A038n_PN2f_00003-7	7	疑う	e2	13	光景	root	|reltype=before

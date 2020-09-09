@@ -1,0 +1,14 @@
+A034n_PN1d_00003-3	53	分かっ	root
+A034n_PN1d_00003-4	25	し	root
+A034n_PN1d_00003-5	39	さ	root
+A034n_PN1d_00003-7	25	日	root
+A034n_PN1d_00003-8	30	わかっ	root
+A034n_PN1d_00003-13	39	いう	root
+A034n_PN1d_00003-16	32	出	root
+A034n_PN1d_00003-21	65	逮捕	root
+A034n_PN1d_00003-23	78	疑い	root
+A034n_PN1d_00003-27	29	デビュー	root
+A034n_PN1d_00003-28	10	呼ん	root
+A034n_PN1d_00003-29	17	し	root
+A034n_PN1d_00003-36	88	し	root
+

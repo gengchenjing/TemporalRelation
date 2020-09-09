@@ -1,0 +1,5707 @@
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=overlapped-by
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=overlapped-by
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=overlaps
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=vague
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=contains
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=during
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=after
+
+A043n_PN5a_00003-1	8	減る	e1	8	減る	root	|reltype=before

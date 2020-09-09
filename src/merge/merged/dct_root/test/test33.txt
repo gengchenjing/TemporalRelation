@@ -1,0 +1,5707 @@
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=overlapped-by
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=overlapped-by
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=overlaps
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=vague
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=contains
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=during
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=after
+
+A033n_PN1b_00003-3	7	当て	e1	22	する	root	|reltype=before

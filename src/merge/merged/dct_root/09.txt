@@ -1,0 +1,17 @@
+A009n_PN4b_00001-3	62	し	root
+A009n_PN4b_00001-7	39	行っ	root
+A009n_PN4b_00001-8	12	倒す	root
+A009n_PN4b_00001-9	28	上げ	root
+A009n_PN4b_00001-10	45	批判	root
+A009n_PN4b_00001-11	44	起き	root
+A009n_PN4b_00001-12	59	し	root
+A009n_PN4b_00001-13	20	地域	root
+A009n_PN4b_00001-14	4	認める	root
+A009n_PN4b_00001-18	62	求め	root
+A009n_PN4b_00001-19	42	み	root
+A009n_PN4b_00001-20	48	透明	root
+A009n_PN4b_00001-21	47	いう	root
+A009n_PN4b_00001-22	51	触れ	root
+A009n_PN4b_00001-23	47	み	root
+A009n_PN4b_00001-25	20	し	root
+

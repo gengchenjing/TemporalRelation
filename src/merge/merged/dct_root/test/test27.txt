@@ -1,0 +1,5707 @@
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=overlapped-by
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=overlapped-by
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=overlaps
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=vague
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=contains
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=during
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=after
+
+A027n_PN3e_00002-3	10	消費	e1	16	量	root	|reltype=before

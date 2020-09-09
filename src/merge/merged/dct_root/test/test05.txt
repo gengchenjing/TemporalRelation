@@ -1,0 +1,5707 @@
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=overlapped-by
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=overlapped-by
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=overlaps
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=vague
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=contains
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=during
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=after
+
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root	|reltype=before

@@ -1,0 +1,17 @@
+A033n_PN1b_00003-3	22	する	root
+A033n_PN1b_00003-4	23	調べる	root
+A033n_PN1b_00003-7	39	取る	root
+A033n_PN1b_00003-8	30	告げる	root
+A033n_PN1b_00003-13	8	肌	root
+A033n_PN1b_00003-14	8	砂漠	root
+A033n_PN1b_00003-18	68	と	root
+A033n_PN1b_00003-19	36	物語	root
+A033n_PN1b_00003-20	53	内容	root
+A033n_PN1b_00003-21	18	ディレクター	root
+A033n_PN1b_00003-27	37	描く	root
+A033n_PN1b_00003-33	21	与える	root
+A033n_PN1b_00003-37	18	ある	root
+A033n_PN1b_00003-44	32	描く	root
+A033n_PN1b_00003-50	26	届ける	root
+A033n_PN1b_00003-51	24	おくる	root
+

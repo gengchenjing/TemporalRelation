@@ -1,0 +1,62 @@
+# sent_id = A005n_PN2e_00001-9
+# text = [JSP]今月初めから町内全戸を対象に希望調査を行っており、五月中旬から回収を始める。
+1	[JSP]	[JSP]	X	空白	_	3	dep	_	BunsetuPosition=B|BunsetuPositionType=CONT|SpaceAfter=No
+2	今月	今月	NOUN	名詞-普通名詞-副詞可能	_	3	compound	_	BunsetuPosition=I|JPYomi=コンゲツ|BunsetuPositionType=CONT|SpaceAfter=No
+3	初め	初め	NOUN	名詞-普通名詞-副詞可能	_	13	nmod	_	BunsetuPosition=I|JPYomi=ハジメ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+4	から	から	ADP	助詞-格助詞	_	3	case	_	BunsetuPosition=I|JPYomi=カラ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+5	町内	町内	NOUN	名詞-普通名詞-一般	_	6	compound	_	BunsetuPosition=B|JPYomi=チョウナイ|BunsetuPositionType=CONT|SpaceAfter=No
+6	全戸	全戸	NOUN	名詞-普通名詞-一般	_	8	obj	_	BunsetuPosition=I|JPYomi=ゼンコ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+7	を	を	ADP	助詞-格助詞	_	6	case	_	BunsetuPosition=I|JPYomi=ヲ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+8	対象	対象	NOUN	名詞-普通名詞-一般	_	13	obl	_	BunsetuPosition=B|JPYomi=タイショウ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+9	に	に	ADP	助詞-格助詞	_	8	case	_	BunsetuPosition=I|JPYomi=ニ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+10	希望	希望	NOUN	名詞-普通名詞-サ変可能	_	11	compound	_	BunsetuPosition=B|JPYomi=キボウ|BunsetuPositionType=CONT|SpaceAfter=No
+11	調査	調査	NOUN	名詞-普通名詞-サ変可能	_	13	obj	_	BunsetuPosition=I|JPYomi=チョウサ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+12	を	を	ADP	助詞-格助詞	_	11	case	_	BunsetuPosition=I|JPYomi=ヲ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+13	行っ	行う	VERB	動詞-一般	_	23	advcl	_	BunsetuPosition=B|JPYomi=オコナウ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+14	て	て	SCONJ	助詞-接続助詞	_	13	mark	_	BunsetuPosition=I|JPYomi=テ|BunsetuPositionType=FUNC|SpaceAfter=No
+15	おり	居る	AUX	動詞-非自立可能	_	13	aux	_	BunsetuPosition=I|JPYomi=オル|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+16	、	、	PUNCT	補助記号-読点	_	13	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+17	五	五	NUM	名詞-数詞	_	19	nummod	_	BunsetuPosition=B|JPYomi=ゴ|BunsetuPositionType=CONT|SpaceAfter=No
+18	月	月	NOUN	名詞-普通名詞-助数詞可能	_	19	compound	_	BunsetuPosition=I|JPYomi=ガツ|BunsetuPositionType=CONT|SpaceAfter=No
+19	中旬	中旬	NOUN	名詞-普通名詞-副詞可能	_	23	nmod	_	BunsetuPosition=I|JPYomi=チュウジュン|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+20	から	から	ADP	助詞-格助詞	_	19	case	_	BunsetuPosition=I|JPYomi=カラ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+21	回収	回収	NOUN	名詞-普通名詞-サ変可能	_	23	obj	_	BunsetuPosition=B|JPYomi=カイシュウ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+22	を	を	ADP	助詞-格助詞	_	21	case	_	BunsetuPosition=I|JPYomi=ヲ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+23	始める	始める	VERB	動詞-非自立可能	_	0	root	_	BunsetuPosition=B|JPYomi=ハジメル|BunsetuPositionType=ROOT|SpaceAfter=No
+24	。	。	PUNCT	補助記号-句点	_	23	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+
+# sent_id = A005n_PN2e_00001-27
+# text = 公営地下鉄事業は、二〇〇〇年度末で、東京都と八政令市で延べ四百七十三キロが営業している。
+1	公営	公営	NOUN	名詞-普通名詞-一般	_	4	compound	_	BunsetuPosition=B|JPYomi=コウエイ|BunsetuPositionType=CONT|SpaceAfter=No
+2	地下	地下	NOUN	名詞-普通名詞-一般	_	4	compound	_	BunsetuPosition=I|JPYomi=チカ|BunsetuPositionType=CONT|SpaceAfter=No
+3	鉄	鉄	PART	接尾辞-名詞的-一般	_	4	nmod	_	BunsetuPosition=I|JPYomi=テツ|BunsetuPositionType=CONT|SpaceAfter=No
+4	事業	事業	NOUN	名詞-普通名詞-一般	_	29	obl	_	BunsetuPosition=I|JPYomi=ジギョウ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+5	は	は	ADP	助詞-係助詞	_	4	case	_	BunsetuPosition=I|JPYomi=ハ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+6	、	、	PUNCT	補助記号-読点	_	4	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+7	二	二	NUM	名詞-数詞	_	12	nummod	_	BunsetuPosition=B|JPYomi=ニ|BunsetuPositionType=CONT|SpaceAfter=No
+8	〇	零	NUM	名詞-数詞	_	12	nummod	_	BunsetuPosition=I|JPYomi=レイ|BunsetuPositionType=CONT|SpaceAfter=No
+9	〇	零	NUM	名詞-数詞	_	12	nummod	_	BunsetuPosition=I|JPYomi=レイ|BunsetuPositionType=CONT|SpaceAfter=No
+10	〇	零	NUM	名詞-数詞	_	12	nummod	_	BunsetuPosition=I|JPYomi=レイ|BunsetuPositionType=CONT|SpaceAfter=No
+11	年度	年度	NOUN	名詞-普通名詞-一般	_	12	compound	_	BunsetuPosition=I|JPYomi=ネンド|BunsetuPositionType=CONT|SpaceAfter=No
+12	末	末	PART	接尾辞-名詞的-副詞可能	_	29	nmod	_	BunsetuPosition=I|JPYomi=マツ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+13	で	で	ADP	助詞-格助詞	_	12	case	_	BunsetuPosition=I|JPYomi=デ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+14	、	、	PUNCT	補助記号-読点	_	12	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+15	東京	トウキョウ	PROPN	名詞-固有名詞-地名-一般	_	16	compound	_	BunsetuPosition=B|JPYomi=トウキョウ|BunsetuPositionType=CONT|SpaceAfter=No
+16	都	都	NOUN	名詞-普通名詞-一般	_	20	nmod	_	BunsetuPosition=I|JPYomi=ト|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+17	と	と	ADP	助詞-格助詞	_	16	case	_	BunsetuPosition=I|JPYomi=ト|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+18	八	八	NUM	名詞-数詞	_	20	nummod	_	BunsetuPosition=B|JPYomi=ハチ|BunsetuPositionType=CONT|SpaceAfter=No
+19	政令	政令	NOUN	名詞-普通名詞-一般	_	20	compound	_	BunsetuPosition=I|JPYomi=セイレイ|BunsetuPositionType=CONT|SpaceAfter=No
+20	市	市	NOUN	名詞-普通名詞-一般	_	29	nmod	_	BunsetuPosition=I|JPYomi=シ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+21	で	で	ADP	助詞-格助詞	_	20	case	_	BunsetuPosition=I|JPYomi=デ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+22	延べ	延べ	NOUN	名詞-普通名詞-一般	_	26	compound	_	BunsetuPosition=B|JPYomi=ノベ|BunsetuPositionType=CONT|SpaceAfter=No
+23	四百	四百	NUM	名詞-数詞	_	26	nummod	_	BunsetuPosition=I|JPYomi=ヨンヒャク|BunsetuPositionType=CONT|SpaceAfter=No
+24	七十	七十	NUM	名詞-数詞	_	26	nummod	_	BunsetuPosition=I|JPYomi=ナナジュウ|BunsetuPositionType=CONT|SpaceAfter=No
+25	三	三	NUM	名詞-数詞	_	26	nummod	_	BunsetuPosition=I|JPYomi=サン|BunsetuPositionType=CONT|SpaceAfter=No
+26	キロ	キロ	NOUN	名詞-普通名詞-助数詞可能	_	29	nsubj	_	BunsetuPosition=I|JPYomi=キロ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+27	が	が	ADP	助詞-格助詞	_	26	case	_	BunsetuPosition=I|JPYomi=ガ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+28	営業	営業	VERB	名詞-普通名詞-サ変可能	_	29	aux	_	BunsetuPosition=B|JPYomi=エイギョウ|BunsetuPositionType=CONT|SpaceAfter=No
+29	し	為る	AUX	動詞-非自立可能	_	0	root	_	BunsetuPosition=I|JPYomi=スル|BunsetuPositionType=ROOT|SpaceAfter=No
+30	て	て	SCONJ	助詞-接続助詞	_	29	mark	_	BunsetuPosition=I|JPYomi=テ|BunsetuPositionType=FUNC|SpaceAfter=No
+31	いる	居る	AUX	動詞-非自立可能	_	29	aux	_	BunsetuPosition=I|JPYomi=イル|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+32	。	。	PUNCT	補助記号-句点	_	29	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+

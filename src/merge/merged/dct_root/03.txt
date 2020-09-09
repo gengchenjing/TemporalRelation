@@ -1,0 +1,15 @@
+A003n_PN1e_00001-3	62	し	root
+A003n_PN1e_00001-4	41	趣向	root
+A003n_PN1e_00001-5	14	売り込ん	root
+A003n_PN1e_00001-8	19	いう	root
+A003n_PN1e_00001-17	22	あいさつ	root
+A003n_PN1e_00001-22	28	し	root
+A003n_PN1e_00001-23	42	返り咲い	root
+A003n_PN1e_00001-24	54	なっ	root
+A003n_PN1e_00001-25	64	し	root
+A003n_PN1e_00001-26	39	増加	root
+A003n_PN1e_00001-27	28	し	root
+A003n_PN1e_00001-28	23	取り組ん	root
+A003n_PN1e_00001-30	37	達し	root
+A003n_PN1e_00001-35	63	し	root
+

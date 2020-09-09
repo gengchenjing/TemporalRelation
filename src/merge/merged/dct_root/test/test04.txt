@@ -1,0 +1,5707 @@
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=overlapped-by
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=overlapped-by
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=overlaps
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=vague
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=contains
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=during
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=after
+
+A004n_PN1f_00001-3	18	する	e4	25	体験	root	|reltype=before

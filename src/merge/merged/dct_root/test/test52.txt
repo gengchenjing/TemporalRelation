@@ -1,0 +1,5707 @@
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=overlapped-by
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=overlapped-by
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=overlaps
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=vague
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=contains
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=during
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=after
+
+A052n_PN2e_00004-3	5	なくし	e1	9	拍車	root	|reltype=before

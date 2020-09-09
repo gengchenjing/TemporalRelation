@@ -1,0 +1,5707 @@
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=overlapped-by
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=overlapped-by
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=overlaps
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=vague
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=contains
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=during
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=after
+
+A051n_PN2d_00004-4	5	点滅	e3	14	変化	root	|reltype=before

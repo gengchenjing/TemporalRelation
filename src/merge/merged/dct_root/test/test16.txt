@@ -1,0 +1,5707 @@
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=overlapped-by
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=overlapped-by
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=overlaps
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=vague
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=contains
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=during
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=after
+
+A016n_PN1e_00002-3	10	出し	e1	33	し	root	|reltype=before

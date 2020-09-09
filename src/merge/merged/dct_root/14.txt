@@ -1,0 +1,17 @@
+A014n_PN1b_00002-3	48	分かっ	root
+A014n_PN1b_00002-4	16	なっ	root
+A014n_PN1b_00002-5	34	増	root
+A014n_PN1b_00002-10	14	伸び	root
+A014n_PN1b_00002-12	44	開く	root
+A014n_PN1b_00002-18	4	し	root
+A014n_PN1b_00002-25	42	する	root
+A014n_PN1b_00002-27	35	行っ	root
+A014n_PN1b_00002-29	20	さ	root
+A014n_PN1b_00002-30	27	続い	root
+A014n_PN1b_00002-31	42	し	root
+A014n_PN1b_00002-32	32	する	root
+A014n_PN1b_00002-33	24	なら	root
+A014n_PN1b_00002-35	20	さ	root
+A014n_PN1b_00002-37	35	さ	root
+A014n_PN1b_00002-38	47	割り込む	root
+

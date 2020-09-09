@@ -1,0 +1,71 @@
+# sent_id = A033n_PN1b_00003-15
+# text = 一年水をあげたって草も生えやしない」
+1	一	一	NUM	名詞-数詞	_	2	nummod	_	BunsetuPosition=B|JPYomi=イチ|BunsetuPositionType=CONT|SpaceAfter=No
+2	年	年	NOUN	名詞-普通名詞-助数詞可能	_	5	nmod	_	BunsetuPosition=I|JPYomi=ネン|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+3	水	水	NOUN	名詞-普通名詞-一般	_	5	obj	_	BunsetuPosition=B|JPYomi=ミズ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+4	を	を	ADP	助詞-格助詞	_	3	case	_	BunsetuPosition=I|JPYomi=ヲ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+5	あげ	上げる	VERB	動詞-非自立可能	_	11	advcl	_	BunsetuPosition=B|JPYomi=アゲル|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+6	たって	たって	CCONJ	助詞-接続助詞	_	5	cc	_	BunsetuPosition=I|JPYomi=タッテ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+7	草	草	NOUN	名詞-普通名詞-一般	_	11	obl	_	BunsetuPosition=B|JPYomi=クサ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+8	も	も	ADP	助詞-係助詞	_	7	case	_	BunsetuPosition=I|JPYomi=モ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+9	生え	生える	VERB	動詞-一般	_	11	obl	_	BunsetuPosition=B|JPYomi=ハエル|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+10	や	は	ADP	助詞-係助詞	_	9	case	_	BunsetuPosition=I|JPYomi=ハ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+11	し	為る	AUX	動詞-非自立可能	_	0	root	_	BunsetuPosition=B|JPYomi=スル|BunsetuPositionType=ROOT|SpaceAfter=No
+12	ない	ない	AUX	助動詞	Polarity=Neg	11	aux	_	BunsetuPosition=I|JPYomi=ナイ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+13	」	」	PUNCT	補助記号-括弧閉	_	11	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+
+# sent_id = A033n_PN1b_00003-33
+# text = 毎回、宇宙が診察する患者それぞれの人生が描かれるのも、ドラマに広がりを与える。
+1	毎回	毎回	ADV	名詞-普通名詞-副詞可能	_	12	advmod	_	BunsetuPosition=B|JPYomi=マイカイ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+2	、	、	PUNCT	補助記号-読点	_	1	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+3	宇宙	ソラ	PROPN	名詞-固有名詞-人名-名	_	6	nsubj	_	BunsetuPosition=B|JPYomi=ソラ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+4	が	が	ADP	助詞-格助詞	_	3	case	_	BunsetuPosition=I|JPYomi=ガ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+5	診察	診察	VERB	名詞-普通名詞-サ変可能	_	6	aux	_	BunsetuPosition=B|JPYomi=シンサツ|BunsetuPositionType=CONT|SpaceAfter=No
+6	する	為る	AUX	動詞-非自立可能	_	8	acl	_	BunsetuPosition=I|JPYomi=スル|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+7	患者	患者	NOUN	名詞-普通名詞-一般	_	8	compound	_	BunsetuPosition=B|JPYomi=カンジャ|BunsetuPositionType=CONT|SpaceAfter=No
+8	それぞれ	其々	NOUN	名詞-普通名詞-副詞可能	_	10	nmod	_	BunsetuPosition=I|JPYomi=ソレゾレ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+9	の	の	ADP	助詞-格助詞	_	8	case	_	BunsetuPosition=I|JPYomi=ノ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+10	人生	人生	NOUN	名詞-普通名詞-一般	_	12	nsubj	_	BunsetuPosition=B|JPYomi=ジンセイ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+11	が	が	ADP	助詞-格助詞	_	10	case	_	BunsetuPosition=I|JPYomi=ガ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+12	描か	描く	VERB	動詞-一般	_	21	iobj	_	BunsetuPosition=B|JPYomi=エガク|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+13	れる	れる	AUX	助動詞	_	12	aux	_	BunsetuPosition=I|JPYomi=レル|BunsetuPositionType=FUNC|SpaceAfter=No
+14	の	の	SCONJ	助詞-準体助詞	_	12	mark	_	BunsetuPosition=I|JPYomi=ノ|BunsetuPositionType=FUNC|SpaceAfter=No
+15	も	も	ADP	助詞-係助詞	_	12	case	_	BunsetuPosition=I|JPYomi=モ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+16	、	、	PUNCT	補助記号-読点	_	12	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+17	ドラマ	ドラマ	NOUN	名詞-普通名詞-一般	_	21	iobj	_	BunsetuPosition=B|JPYomi=ドラマ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+18	に	に	ADP	助詞-格助詞	_	17	case	_	BunsetuPosition=I|JPYomi=ニ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+19	広がり	広がり	NOUN	名詞-普通名詞-一般	_	21	obj	_	BunsetuPosition=B|JPYomi=ヒロガリ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+20	を	を	ADP	助詞-格助詞	_	19	case	_	BunsetuPosition=I|JPYomi=ヲ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+21	与える	与える	VERB	動詞-一般	_	0	root	_	BunsetuPosition=B|JPYomi=アタエル|BunsetuPositionType=ROOT|SpaceAfter=No
+22	。	。	PUNCT	補助記号-句点	_	21	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+
+# sent_id = A033n_PN1b_00003-34
+# text = 第２話では、大会直前に腹部に異常が見つかった女子校水泳部選手（栗山千明）の話。
+1	第	第	NOUN	接頭辞	_	3	compound	_	BunsetuPosition=B|JPYomi=ダイ|BunsetuPositionType=CONT|SpaceAfter=No
+2	２	二	NUM	名詞-数詞	_	3	nummod	_	BunsetuPosition=I|JPYomi=ニ|BunsetuPositionType=CONT|SpaceAfter=No
+3	話	話	PART	接尾辞-名詞的-一般	_	14	obl	_	BunsetuPosition=I|JPYomi=ワ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+4	で	で	ADP	助詞-格助詞	_	3	case	_	BunsetuPosition=I|JPYomi=デ|BunsetuPositionType=FUNC|SpaceAfter=No
+5	は	は	ADP	助詞-係助詞	_	3	case	_	BunsetuPosition=I|JPYomi=ハ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+6	、	、	PUNCT	補助記号-読点	_	3	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+7	大会	大会	NOUN	名詞-普通名詞-一般	_	8	compound	_	BunsetuPosition=B|JPYomi=タイカイ|BunsetuPositionType=CONT|SpaceAfter=No
+8	直前	直前	NOUN	名詞-普通名詞-副詞可能	_	14	obl	_	BunsetuPosition=I|JPYomi=チョクゼン|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+9	に	に	ADP	助詞-格助詞	_	8	case	_	BunsetuPosition=I|JPYomi=ニ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+10	腹部	腹部	NOUN	名詞-普通名詞-一般	_	14	iobj	_	BunsetuPosition=B|JPYomi=フクブ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+11	に	に	ADP	助詞-格助詞	_	10	case	_	BunsetuPosition=I|JPYomi=ニ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+12	異常	異常	NOUN	名詞-普通名詞-形状詞可能	_	14	nsubj	_	BunsetuPosition=B|JPYomi=イジョウ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+13	が	が	ADP	助詞-格助詞	_	12	case	_	BunsetuPosition=I|JPYomi=ガ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+14	見つかっ	見付かる	VERB	動詞-一般	_	23	dep	_	BunsetuPosition=B|JPYomi=ミツカル|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+15	た	た	AUX	助動詞	_	14	aux	_	BunsetuPosition=I|JPYomi=タ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+16	女子	女子	NOUN	名詞-普通名詞-一般	_	23	appos	_	BunsetuPosition=B|JPYomi=ジョシ|BunsetuPositionType=CONT|SpaceAfter=No
+17	校	校	PART	接尾辞-名詞的-一般	_	23	appos	_	BunsetuPosition=I|JPYomi=コウ|BunsetuPositionType=CONT|SpaceAfter=No
+18	水泳	水泳	NOUN	名詞-普通名詞-サ変可能	_	23	appos	_	BunsetuPosition=I|JPYomi=スイエイ|BunsetuPositionType=CONT|SpaceAfter=No
+19	部	部	NOUN	名詞-普通名詞-助数詞可能	_	23	appos	_	BunsetuPosition=I|JPYomi=ブ|BunsetuPositionType=CONT|SpaceAfter=No
+20	選手	選手	NOUN	名詞-普通名詞-一般	_	23	appos	_	BunsetuPosition=I|JPYomi=センシュ|BunsetuPositionType=CONT|SpaceAfter=No
+21	（	（	PUNCT	補助記号-括弧開	_	23	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+22	栗山	クリヤマ	PROPN	名詞-固有名詞-人名-姓	_	23	compound	_	BunsetuPosition=I|JPYomi=クリヤマ|BunsetuPositionType=CONT|SpaceAfter=No
+23	千明	チアキ	PROPN	名詞-固有名詞-人名-名	_	26	nmod	_	BunsetuPosition=I|JPYomi=チアキ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+24	）	）	PUNCT	補助記号-括弧閉	_	23	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+25	の	の	ADP	助詞-格助詞	_	23	case	_	BunsetuPosition=I|JPYomi=ノ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+26	話	話	NOUN	名詞-普通名詞-サ変可能	_	0	root	_	BunsetuPosition=B|JPYomi=ハナシ|BunsetuPositionType=ROOT|SpaceAfter=No
+27	。	。	PUNCT	補助記号-句点	_	26	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+

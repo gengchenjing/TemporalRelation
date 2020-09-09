@@ -1,0 +1,14 @@
+A005n_PN2e_00001-4	38	始める	root
+A005n_PN2e_00001-6	36	いう	root
+A005n_PN2e_00001-7	30	引き渡す	root
+A005n_PN2e_00001-8	17	する	root
+A005n_PN2e_00001-9	23	始める	root
+A005n_PN2e_00001-10	25	する	root
+A005n_PN2e_00001-11	50	さ	root
+A005n_PN2e_00001-12	30	いう	root
+A005n_PN2e_00001-15	56	分かっ	root
+A005n_PN2e_00001-20	13	求め	root
+A005n_PN2e_00001-23	47	ある	root
+A005n_PN2e_00001-24	35	み	root
+A005n_PN2e_00001-27	29	し	root
+

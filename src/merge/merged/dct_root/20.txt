@@ -1,0 +1,17 @@
+A020n_PN2c_00002-8	22	極めよう	root
+A020n_PN2c_00002-9	20	し	root
+A020n_PN2c_00002-14	81	示し	root
+A020n_PN2c_00002-15	24	し	root
+A020n_PN2c_00002-16	58	見	root
+A020n_PN2c_00002-18	50	示し	root
+A020n_PN2c_00002-19	42	し	root
+A020n_PN2c_00002-22	32	報じ	root
+A020n_PN2c_00002-23	70	いう	root
+A020n_PN2c_00002-24	21	み	root
+A020n_PN2c_00002-26	8	経験	root
+A020n_PN2c_00002-27	67	わかっ	root
+A020n_PN2c_00002-28	38	実施	root
+A020n_PN2c_00002-29	27	人	root
+A020n_PN2c_00002-30	29	回答	root
+A020n_PN2c_00002-31	76	浮かん	root
+

@@ -1,0 +1,5707 @@
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=overlapped-by
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=overlapped-by
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=overlaps
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=vague
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=contains
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=during
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=after
+
+A026n_PN3d_00002-5	5	先立っ	e1	69	し	root	|reltype=before

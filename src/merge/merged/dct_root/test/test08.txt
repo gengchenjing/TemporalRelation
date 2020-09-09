@@ -1,0 +1,5707 @@
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=overlapped-by
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=overlapped-by
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=overlaps
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=vague
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=contains
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=during
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=after
+
+A008n_PN4a_00001-7	8	重宝	e9	32	よう	root	|reltype=before

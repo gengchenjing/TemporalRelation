@@ -1,0 +1,5707 @@
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=overlapped-by
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=overlapped-by
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=overlaps
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=vague
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=contains
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=during
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=after
+
+A046n_PN1b_00004-2	5	立て直す	e1	5	立て直す	root	|reltype=before

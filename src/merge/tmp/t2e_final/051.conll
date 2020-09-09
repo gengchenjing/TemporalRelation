@@ -1,0 +1,240 @@
+# sent_id = A051n_PN2d_00004-20
+# text = [JSP]香川の直島で一九九八年、築二百五十年の民家の中にプールを作りました。
+1	[JSP]	[JSP]	X	空白	_	2	dep	_	BunsetuPosition=B|BunsetuPositionType=CONT|SpaceAfter=No
+2	香川	カガワ	PROPN	名詞-固有名詞-地名-一般	_	4	nmod	_	BunsetuPosition=I|JPYomi=カガワ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+3	の	の	ADP	助詞-格助詞	_	2	case	_	BunsetuPosition=I|JPYomi=ノ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+4	直島	ナオシマ	PROPN	名詞-固有名詞-地名-一般	_	23	compound	_	BunsetuPosition=B|JPYomi=ナオシマ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+5	で	で	ADP	助詞-格助詞	_	4	case	_	BunsetuPosition=I|JPYomi=デ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+6	一	一	NUM	名詞-数詞	_	10	nummod	_	BunsetuPosition=B|JPYomi=イチ|BunsetuPositionType=CONT|SpaceAfter=No
+7	九	九	NUM	名詞-数詞	_	10	nummod	_	BunsetuPosition=I|JPYomi=キュウ|BunsetuPositionType=CONT|SpaceAfter=No
+8	九	九	NUM	名詞-数詞	_	10	nummod	_	BunsetuPosition=I|JPYomi=キュウ|BunsetuPositionType=CONT|SpaceAfter=No
+9	八	八	NUM	名詞-数詞	_	10	nummod	_	BunsetuPosition=I|JPYomi=ハチ|BunsetuPositionType=CONT|SpaceAfter=No
+10	年	年	NOUN	名詞-普通名詞-助数詞可能	_	23	nmod	_	BunsetuPosition=I|JPYomi=ネン|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+11	、	、	PUNCT	補助記号-読点	_	10	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+12	築	築	NOUN	名詞-普通名詞-一般	_	15	compound	_	BunsetuPosition=B|JPYomi=チク|BunsetuPositionType=CONT|SpaceAfter=No
+13	二百	二百	NUM	名詞-数詞	_	15	nummod	_	BunsetuPosition=I|JPYomi=ニヒャク|BunsetuPositionType=CONT|SpaceAfter=No
+14	五十	五十	NUM	名詞-数詞	_	15	nummod	_	BunsetuPosition=I|JPYomi=ゴジュウ|BunsetuPositionType=CONT|SpaceAfter=No
+15	年	年	NOUN	名詞-普通名詞-助数詞可能	_	17	nmod	_	BunsetuPosition=I|JPYomi=ネン|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+16	の	の	ADP	助詞-格助詞	_	15	case	_	BunsetuPosition=I|JPYomi=ノ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+17	民家	民家	NOUN	名詞-普通名詞-一般	_	19	nmod	_	BunsetuPosition=B|JPYomi=ミンカ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+18	の	の	ADP	助詞-格助詞	_	17	case	_	BunsetuPosition=I|JPYomi=ノ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+19	中	中	NOUN	名詞-普通名詞-副詞可能	_	23	obl	_	BunsetuPosition=B|JPYomi=ナカ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+20	に	に	ADP	助詞-格助詞	_	19	case	_	BunsetuPosition=I|JPYomi=ニ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+21	プール	プール	NOUN	名詞-普通名詞-サ変可能	_	23	obj	_	BunsetuPosition=B|JPYomi=プール|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+22	を	を	ADP	助詞-格助詞	_	21	case	_	BunsetuPosition=I|JPYomi=ヲ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+23	作り	作る	VERB	動詞-一般	_	0	root	_	BunsetuPosition=B|JPYomi=ツクル|BunsetuPositionType=ROOT|SpaceAfter=No
+24	まし	ます	AUX	助動詞	_	23	aux	_	BunsetuPosition=I|JPYomi=マス|BunsetuPositionType=FUNC|SpaceAfter=No
+25	た	た	AUX	助動詞	_	23	aux	_	BunsetuPosition=I|JPYomi=タ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+26	。	。	PUNCT	補助記号-句点	_	23	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+
+# sent_id = A051n_PN2d_00004-36
+# text = [JSP]今年は夏から秋にかけて、韓国で巡回展が決まっています。
+1	[JSP]	[JSP]	X	空白	_	2	dep	_	BunsetuPosition=B|BunsetuPositionType=CONT|SpaceAfter=No
+2	今年	今年	NOUN	名詞-普通名詞-副詞可能	_	16	obl	_	BunsetuPosition=I|JPYomi=コトシ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+3	は	は	ADP	助詞-係助詞	_	2	case	_	BunsetuPosition=I|JPYomi=ハ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+4	夏	夏	NOUN	名詞-普通名詞-副詞可能	_	8	nmod	_	BunsetuPosition=B|JPYomi=ナツ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+5	から	から	ADP	助詞-格助詞	_	4	case	_	BunsetuPosition=I|JPYomi=カラ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+6	秋	秋	NOUN	名詞-普通名詞-副詞可能	_	8	obl	_	BunsetuPosition=B|JPYomi=アキ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+7	に	に	ADP	助詞-格助詞	_	6	case	_	BunsetuPosition=I|JPYomi=ニ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+8	かけ	掛ける	VERB	動詞-非自立可能	_	16	advcl	_	BunsetuPosition=B|JPYomi=カケル|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+9	て	て	SCONJ	助詞-接続助詞	_	8	mark	_	BunsetuPosition=I|JPYomi=テ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+10	、	、	PUNCT	補助記号-読点	_	8	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+11	韓国	韓国	PROPN	名詞-固有名詞-地名-国	_	16	compound	_	BunsetuPosition=B|JPYomi=カンコク|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+12	で	で	ADP	助詞-格助詞	_	11	case	_	BunsetuPosition=I|JPYomi=デ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+13	巡回	巡回	NOUN	名詞-普通名詞-サ変可能	_	14	compound	_	BunsetuPosition=B|JPYomi=ジュンカイ|BunsetuPositionType=CONT|SpaceAfter=No
+14	展	展	PART	接尾辞-名詞的-一般	_	16	nsubj	_	BunsetuPosition=I|JPYomi=テン|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+15	が	が	ADP	助詞-格助詞	_	14	case	_	BunsetuPosition=I|JPYomi=ガ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+16	決まっ	決まる	VERB	動詞-一般	_	0	root	_	BunsetuPosition=B|JPYomi=キマル|BunsetuPositionType=ROOT|SpaceAfter=No
+17	て	て	SCONJ	助詞-接続助詞	_	16	mark	_	BunsetuPosition=I|JPYomi=テ|BunsetuPositionType=FUNC|SpaceAfter=No
+18	い	居る	AUX	動詞-非自立可能	_	16	aux	_	BunsetuPosition=I|JPYomi=イル|BunsetuPositionType=FUNC|SpaceAfter=No
+19	ます	ます	AUX	助動詞	_	16	aux	_	BunsetuPosition=I|JPYomi=マス|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+20	。	。	PUNCT	補助記号-句点	_	16	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+
+# sent_id = A051n_PN2d_00004-36
+# text = [JSP]今年は夏から秋にかけて、韓国で巡回展が決まっています。
+1	[JSP]	[JSP]	X	空白	_	2	dep	_	BunsetuPosition=B|BunsetuPositionType=CONT|SpaceAfter=No
+2	今年	今年	NOUN	名詞-普通名詞-副詞可能	_	16	obl	_	BunsetuPosition=I|JPYomi=コトシ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+3	は	は	ADP	助詞-係助詞	_	2	case	_	BunsetuPosition=I|JPYomi=ハ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+4	夏	夏	NOUN	名詞-普通名詞-副詞可能	_	8	nmod	_	BunsetuPosition=B|JPYomi=ナツ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+5	から	から	ADP	助詞-格助詞	_	4	case	_	BunsetuPosition=I|JPYomi=カラ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+6	秋	秋	NOUN	名詞-普通名詞-副詞可能	_	8	obl	_	BunsetuPosition=B|JPYomi=アキ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+7	に	に	ADP	助詞-格助詞	_	6	case	_	BunsetuPosition=I|JPYomi=ニ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+8	かけ	掛ける	VERB	動詞-非自立可能	_	16	advcl	_	BunsetuPosition=B|JPYomi=カケル|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+9	て	て	SCONJ	助詞-接続助詞	_	8	mark	_	BunsetuPosition=I|JPYomi=テ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+10	、	、	PUNCT	補助記号-読点	_	8	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+11	韓国	韓国	PROPN	名詞-固有名詞-地名-国	_	16	compound	_	BunsetuPosition=B|JPYomi=カンコク|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+12	で	で	ADP	助詞-格助詞	_	11	case	_	BunsetuPosition=I|JPYomi=デ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+13	巡回	巡回	NOUN	名詞-普通名詞-サ変可能	_	14	compound	_	BunsetuPosition=B|JPYomi=ジュンカイ|BunsetuPositionType=CONT|SpaceAfter=No
+14	展	展	PART	接尾辞-名詞的-一般	_	16	nsubj	_	BunsetuPosition=I|JPYomi=テン|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+15	が	が	ADP	助詞-格助詞	_	14	case	_	BunsetuPosition=I|JPYomi=ガ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+16	決まっ	決まる	VERB	動詞-一般	_	0	root	_	BunsetuPosition=B|JPYomi=キマル|BunsetuPositionType=ROOT|SpaceAfter=No
+17	て	て	SCONJ	助詞-接続助詞	_	16	mark	_	BunsetuPosition=I|JPYomi=テ|BunsetuPositionType=FUNC|SpaceAfter=No
+18	い	居る	AUX	動詞-非自立可能	_	16	aux	_	BunsetuPosition=I|JPYomi=イル|BunsetuPositionType=FUNC|SpaceAfter=No
+19	ます	ます	AUX	助動詞	_	16	aux	_	BunsetuPosition=I|JPYomi=マス|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+20	。	。	PUNCT	補助記号-句点	_	16	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+
+# sent_id = A051n_PN2d_00004-36
+# text = [JSP]今年は夏から秋にかけて、韓国で巡回展が決まっています。
+1	[JSP]	[JSP]	X	空白	_	2	dep	_	BunsetuPosition=B|BunsetuPositionType=CONT|SpaceAfter=No
+2	今年	今年	NOUN	名詞-普通名詞-副詞可能	_	16	obl	_	BunsetuPosition=I|JPYomi=コトシ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+3	は	は	ADP	助詞-係助詞	_	2	case	_	BunsetuPosition=I|JPYomi=ハ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+4	夏	夏	NOUN	名詞-普通名詞-副詞可能	_	8	nmod	_	BunsetuPosition=B|JPYomi=ナツ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+5	から	から	ADP	助詞-格助詞	_	4	case	_	BunsetuPosition=I|JPYomi=カラ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+6	秋	秋	NOUN	名詞-普通名詞-副詞可能	_	8	obl	_	BunsetuPosition=B|JPYomi=アキ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+7	に	に	ADP	助詞-格助詞	_	6	case	_	BunsetuPosition=I|JPYomi=ニ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+8	かけ	掛ける	VERB	動詞-非自立可能	_	16	advcl	_	BunsetuPosition=B|JPYomi=カケル|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+9	て	て	SCONJ	助詞-接続助詞	_	8	mark	_	BunsetuPosition=I|JPYomi=テ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+10	、	、	PUNCT	補助記号-読点	_	8	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+11	韓国	韓国	PROPN	名詞-固有名詞-地名-国	_	16	compound	_	BunsetuPosition=B|JPYomi=カンコク|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+12	で	で	ADP	助詞-格助詞	_	11	case	_	BunsetuPosition=I|JPYomi=デ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+13	巡回	巡回	NOUN	名詞-普通名詞-サ変可能	_	14	compound	_	BunsetuPosition=B|JPYomi=ジュンカイ|BunsetuPositionType=CONT|SpaceAfter=No
+14	展	展	PART	接尾辞-名詞的-一般	_	16	nsubj	_	BunsetuPosition=I|JPYomi=テン|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+15	が	が	ADP	助詞-格助詞	_	14	case	_	BunsetuPosition=I|JPYomi=ガ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+16	決まっ	決まる	VERB	動詞-一般	_	0	root	_	BunsetuPosition=B|JPYomi=キマル|BunsetuPositionType=ROOT|SpaceAfter=No
+17	て	て	SCONJ	助詞-接続助詞	_	16	mark	_	BunsetuPosition=I|JPYomi=テ|BunsetuPositionType=FUNC|SpaceAfter=No
+18	い	居る	AUX	動詞-非自立可能	_	16	aux	_	BunsetuPosition=I|JPYomi=イル|BunsetuPositionType=FUNC|SpaceAfter=No
+19	ます	ます	AUX	助動詞	_	16	aux	_	BunsetuPosition=I|JPYomi=マス|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+20	。	。	PUNCT	補助記号-句点	_	16	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+
+# sent_id = A051n_PN2d_00004-36
+# text = [JSP]今年は夏から秋にかけて、韓国で巡回展が決まっています。
+1	[JSP]	[JSP]	X	空白	_	2	dep	_	BunsetuPosition=B|BunsetuPositionType=CONT|SpaceAfter=No
+2	今年	今年	NOUN	名詞-普通名詞-副詞可能	_	16	obl	_	BunsetuPosition=I|JPYomi=コトシ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+3	は	は	ADP	助詞-係助詞	_	2	case	_	BunsetuPosition=I|JPYomi=ハ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+4	夏	夏	NOUN	名詞-普通名詞-副詞可能	_	8	nmod	_	BunsetuPosition=B|JPYomi=ナツ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+5	から	から	ADP	助詞-格助詞	_	4	case	_	BunsetuPosition=I|JPYomi=カラ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+6	秋	秋	NOUN	名詞-普通名詞-副詞可能	_	8	obl	_	BunsetuPosition=B|JPYomi=アキ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+7	に	に	ADP	助詞-格助詞	_	6	case	_	BunsetuPosition=I|JPYomi=ニ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+8	かけ	掛ける	VERB	動詞-非自立可能	_	16	advcl	_	BunsetuPosition=B|JPYomi=カケル|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+9	て	て	SCONJ	助詞-接続助詞	_	8	mark	_	BunsetuPosition=I|JPYomi=テ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+10	、	、	PUNCT	補助記号-読点	_	8	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+11	韓国	韓国	PROPN	名詞-固有名詞-地名-国	_	16	compound	_	BunsetuPosition=B|JPYomi=カンコク|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+12	で	で	ADP	助詞-格助詞	_	11	case	_	BunsetuPosition=I|JPYomi=デ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+13	巡回	巡回	NOUN	名詞-普通名詞-サ変可能	_	14	compound	_	BunsetuPosition=B|JPYomi=ジュンカイ|BunsetuPositionType=CONT|SpaceAfter=No
+14	展	展	PART	接尾辞-名詞的-一般	_	16	nsubj	_	BunsetuPosition=I|JPYomi=テン|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+15	が	が	ADP	助詞-格助詞	_	14	case	_	BunsetuPosition=I|JPYomi=ガ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+16	決まっ	決まる	VERB	動詞-一般	_	0	root	_	BunsetuPosition=B|JPYomi=キマル|BunsetuPositionType=ROOT|SpaceAfter=No
+17	て	て	SCONJ	助詞-接続助詞	_	16	mark	_	BunsetuPosition=I|JPYomi=テ|BunsetuPositionType=FUNC|SpaceAfter=No
+18	い	居る	AUX	動詞-非自立可能	_	16	aux	_	BunsetuPosition=I|JPYomi=イル|BunsetuPositionType=FUNC|SpaceAfter=No
+19	ます	ます	AUX	助動詞	_	16	aux	_	BunsetuPosition=I|JPYomi=マス|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+20	。	。	PUNCT	補助記号-句点	_	16	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+
+# sent_id = A051n_PN2d_00004-36
+# text = [JSP]今年は夏から秋にかけて、韓国で巡回展が決まっています。
+1	[JSP]	[JSP]	X	空白	_	2	dep	_	BunsetuPosition=B|BunsetuPositionType=CONT|SpaceAfter=No
+2	今年	今年	NOUN	名詞-普通名詞-副詞可能	_	16	obl	_	BunsetuPosition=I|JPYomi=コトシ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+3	は	は	ADP	助詞-係助詞	_	2	case	_	BunsetuPosition=I|JPYomi=ハ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+4	夏	夏	NOUN	名詞-普通名詞-副詞可能	_	8	nmod	_	BunsetuPosition=B|JPYomi=ナツ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+5	から	から	ADP	助詞-格助詞	_	4	case	_	BunsetuPosition=I|JPYomi=カラ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+6	秋	秋	NOUN	名詞-普通名詞-副詞可能	_	8	obl	_	BunsetuPosition=B|JPYomi=アキ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+7	に	に	ADP	助詞-格助詞	_	6	case	_	BunsetuPosition=I|JPYomi=ニ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+8	かけ	掛ける	VERB	動詞-非自立可能	_	16	advcl	_	BunsetuPosition=B|JPYomi=カケル|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+9	て	て	SCONJ	助詞-接続助詞	_	8	mark	_	BunsetuPosition=I|JPYomi=テ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+10	、	、	PUNCT	補助記号-読点	_	8	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+11	韓国	韓国	PROPN	名詞-固有名詞-地名-国	_	16	compound	_	BunsetuPosition=B|JPYomi=カンコク|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+12	で	で	ADP	助詞-格助詞	_	11	case	_	BunsetuPosition=I|JPYomi=デ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+13	巡回	巡回	NOUN	名詞-普通名詞-サ変可能	_	14	compound	_	BunsetuPosition=B|JPYomi=ジュンカイ|BunsetuPositionType=CONT|SpaceAfter=No
+14	展	展	PART	接尾辞-名詞的-一般	_	16	nsubj	_	BunsetuPosition=I|JPYomi=テン|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+15	が	が	ADP	助詞-格助詞	_	14	case	_	BunsetuPosition=I|JPYomi=ガ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+16	決まっ	決まる	VERB	動詞-一般	_	0	root	_	BunsetuPosition=B|JPYomi=キマル|BunsetuPositionType=ROOT|SpaceAfter=No
+17	て	て	SCONJ	助詞-接続助詞	_	16	mark	_	BunsetuPosition=I|JPYomi=テ|BunsetuPositionType=FUNC|SpaceAfter=No
+18	い	居る	AUX	動詞-非自立可能	_	16	aux	_	BunsetuPosition=I|JPYomi=イル|BunsetuPositionType=FUNC|SpaceAfter=No
+19	ます	ます	AUX	助動詞	_	16	aux	_	BunsetuPosition=I|JPYomi=マス|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+20	。	。	PUNCT	補助記号-句点	_	16	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+
+# sent_id = A051n_PN2d_00004-39
+# text = ８８年、ベネチアで開かれた国際現代美術展アペルト部門に、デジタルカウンターを使った最初の作品を発表。
+1	８	八	NUM	名詞-数詞	_	3	nummod	_	BunsetuPosition=B|JPYomi=ハチ|BunsetuPositionType=CONT|SpaceAfter=No
+2	８	八	NUM	名詞-数詞	_	3	nummod	_	BunsetuPosition=I|JPYomi=ハチ|BunsetuPositionType=CONT|SpaceAfter=No
+3	年	年	NOUN	名詞-普通名詞-助数詞可能	_	27	nmod	_	BunsetuPosition=I|JPYomi=ネン|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+4	、	、	PUNCT	補助記号-読点	_	3	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+5	ベネチア	ベネチア	PROPN	名詞-固有名詞-地名-一般	_	7	compound	_	BunsetuPosition=B|JPYomi=ベネチア|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+6	で	で	ADP	助詞-格助詞	_	5	case	_	BunsetuPosition=I|JPYomi=デ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+7	開か	開く	VERB	動詞-一般	_	15	acl	_	BunsetuPosition=B|JPYomi=ヒラク|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+8	れ	れる	AUX	助動詞	_	7	aux	_	BunsetuPosition=I|JPYomi=レル|BunsetuPositionType=FUNC|SpaceAfter=No
+9	た	た	AUX	助動詞	_	7	aux	_	BunsetuPosition=I|JPYomi=タ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+10	国際	国際	NOUN	名詞-普通名詞-一般	_	15	compound	_	BunsetuPosition=B|JPYomi=コクサイ|BunsetuPositionType=CONT|SpaceAfter=No
+11	現代	現代	NOUN	名詞-普通名詞-副詞可能	_	15	compound	_	BunsetuPosition=I|JPYomi=ゲンダイ|BunsetuPositionType=CONT|SpaceAfter=No
+12	美術	美術	NOUN	名詞-普通名詞-一般	_	15	compound	_	BunsetuPosition=I|JPYomi=ビジュツ|BunsetuPositionType=CONT|SpaceAfter=No
+13	展	展	PART	接尾辞-名詞的-一般	_	15	nmod	_	BunsetuPosition=I|JPYomi=テン|BunsetuPositionType=CONT|SpaceAfter=No
+14	アペルト	アペルト	NOUN	名詞-普通名詞-一般	_	15	compound	_	BunsetuPosition=I|JPYomi=アペルト|BunsetuPositionType=CONT|SpaceAfter=No
+15	部門	部門	NOUN	名詞-普通名詞-一般	_	27	obl	_	BunsetuPosition=I|JPYomi=ブモン|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+16	に	に	ADP	助詞-格助詞	_	15	case	_	BunsetuPosition=I|JPYomi=ニ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+17	、	、	PUNCT	補助記号-読点	_	15	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+18	デジタル	デジタル	NOUN	名詞-普通名詞-形状詞可能	_	19	compound	_	BunsetuPosition=B|JPYomi=デジタル|BunsetuPositionType=CONT|SpaceAfter=No
+19	カウンター	カウンター	NOUN	名詞-普通名詞-一般	_	21	obj	_	BunsetuPosition=I|JPYomi=カウンター|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+20	を	を	ADP	助詞-格助詞	_	19	case	_	BunsetuPosition=I|JPYomi=ヲ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+21	使っ	使う	VERB	動詞-一般	_	25	acl	_	BunsetuPosition=B|JPYomi=ツカウ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+22	た	た	AUX	助動詞	_	21	aux	_	BunsetuPosition=I|JPYomi=タ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+23	最初	最初	NOUN	名詞-普通名詞-副詞可能	_	25	nmod	_	BunsetuPosition=B|JPYomi=サイショ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+24	の	の	ADP	助詞-格助詞	_	23	case	_	BunsetuPosition=I|JPYomi=ノ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+25	作品	作品	NOUN	名詞-普通名詞-一般	_	27	obj	_	BunsetuPosition=B|JPYomi=サクヒン|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+26	を	を	ADP	助詞-格助詞	_	25	case	_	BunsetuPosition=I|JPYomi=ヲ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+27	発表	発表	NOUN	名詞-普通名詞-サ変可能	_	0	root	_	BunsetuPosition=B|JPYomi=ハッピョウ|BunsetuPositionType=ROOT|SpaceAfter=No
+28	。	。	PUNCT	補助記号-句点	_	27	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+
+# sent_id = A051n_PN2d_00004-39
+# text = ８８年、ベネチアで開かれた国際現代美術展アペルト部門に、デジタルカウンターを使った最初の作品を発表。
+1	８	八	NUM	名詞-数詞	_	3	nummod	_	BunsetuPosition=B|JPYomi=ハチ|BunsetuPositionType=CONT|SpaceAfter=No
+2	８	八	NUM	名詞-数詞	_	3	nummod	_	BunsetuPosition=I|JPYomi=ハチ|BunsetuPositionType=CONT|SpaceAfter=No
+3	年	年	NOUN	名詞-普通名詞-助数詞可能	_	27	nmod	_	BunsetuPosition=I|JPYomi=ネン|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+4	、	、	PUNCT	補助記号-読点	_	3	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+5	ベネチア	ベネチア	PROPN	名詞-固有名詞-地名-一般	_	7	compound	_	BunsetuPosition=B|JPYomi=ベネチア|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+6	で	で	ADP	助詞-格助詞	_	5	case	_	BunsetuPosition=I|JPYomi=デ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+7	開か	開く	VERB	動詞-一般	_	15	acl	_	BunsetuPosition=B|JPYomi=ヒラク|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+8	れ	れる	AUX	助動詞	_	7	aux	_	BunsetuPosition=I|JPYomi=レル|BunsetuPositionType=FUNC|SpaceAfter=No
+9	た	た	AUX	助動詞	_	7	aux	_	BunsetuPosition=I|JPYomi=タ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+10	国際	国際	NOUN	名詞-普通名詞-一般	_	15	compound	_	BunsetuPosition=B|JPYomi=コクサイ|BunsetuPositionType=CONT|SpaceAfter=No
+11	現代	現代	NOUN	名詞-普通名詞-副詞可能	_	15	compound	_	BunsetuPosition=I|JPYomi=ゲンダイ|BunsetuPositionType=CONT|SpaceAfter=No
+12	美術	美術	NOUN	名詞-普通名詞-一般	_	15	compound	_	BunsetuPosition=I|JPYomi=ビジュツ|BunsetuPositionType=CONT|SpaceAfter=No
+13	展	展	PART	接尾辞-名詞的-一般	_	15	nmod	_	BunsetuPosition=I|JPYomi=テン|BunsetuPositionType=CONT|SpaceAfter=No
+14	アペルト	アペルト	NOUN	名詞-普通名詞-一般	_	15	compound	_	BunsetuPosition=I|JPYomi=アペルト|BunsetuPositionType=CONT|SpaceAfter=No
+15	部門	部門	NOUN	名詞-普通名詞-一般	_	27	obl	_	BunsetuPosition=I|JPYomi=ブモン|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+16	に	に	ADP	助詞-格助詞	_	15	case	_	BunsetuPosition=I|JPYomi=ニ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+17	、	、	PUNCT	補助記号-読点	_	15	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+18	デジタル	デジタル	NOUN	名詞-普通名詞-形状詞可能	_	19	compound	_	BunsetuPosition=B|JPYomi=デジタル|BunsetuPositionType=CONT|SpaceAfter=No
+19	カウンター	カウンター	NOUN	名詞-普通名詞-一般	_	21	obj	_	BunsetuPosition=I|JPYomi=カウンター|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+20	を	を	ADP	助詞-格助詞	_	19	case	_	BunsetuPosition=I|JPYomi=ヲ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+21	使っ	使う	VERB	動詞-一般	_	25	acl	_	BunsetuPosition=B|JPYomi=ツカウ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+22	た	た	AUX	助動詞	_	21	aux	_	BunsetuPosition=I|JPYomi=タ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+23	最初	最初	NOUN	名詞-普通名詞-副詞可能	_	25	nmod	_	BunsetuPosition=B|JPYomi=サイショ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+24	の	の	ADP	助詞-格助詞	_	23	case	_	BunsetuPosition=I|JPYomi=ノ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+25	作品	作品	NOUN	名詞-普通名詞-一般	_	27	obj	_	BunsetuPosition=B|JPYomi=サクヒン|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+26	を	を	ADP	助詞-格助詞	_	25	case	_	BunsetuPosition=I|JPYomi=ヲ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+27	発表	発表	NOUN	名詞-普通名詞-サ変可能	_	0	root	_	BunsetuPosition=B|JPYomi=ハッピョウ|BunsetuPositionType=ROOT|SpaceAfter=No
+28	。	。	PUNCT	補助記号-句点	_	27	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+
+# sent_id = A051n_PN2d_00004-54
+# text = [JSP]そんな宮島作品が、最近、末期がんを宣告された患者の痛みをやわらげる効果がある、と注目されている。
+1	[JSP]	[JSP]	X	空白	_	2	dep	_	BunsetuPosition=B|BunsetuPositionType=CONT|SpaceAfter=No
+2	そんな	そんな	PRON	連体詞	_	4	nmod	_	BunsetuPosition=I|JPYomi=ソンナ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+3	宮島	ミヤジマ	PROPN	名詞-固有名詞-人名-姓	_	4	compound	_	BunsetuPosition=B|JPYomi=ミヤジマ|BunsetuPositionType=CONT|SpaceAfter=No
+4	作品	作品	NOUN	名詞-普通名詞-一般	_	27	nsubj	_	BunsetuPosition=I|JPYomi=サクヒン|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+5	が	が	ADP	助詞-格助詞	_	4	case	_	BunsetuPosition=I|JPYomi=ガ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+6	、	、	PUNCT	補助記号-読点	_	4	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+7	最近	最近	ADV	名詞-普通名詞-副詞可能	_	27	advmod	_	BunsetuPosition=B|JPYomi=サイキン|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+8	、	、	PUNCT	補助記号-読点	_	7	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+9	末期	末期	NOUN	名詞-普通名詞-一般	_	10	compound	_	BunsetuPosition=B|JPYomi=マッキ|BunsetuPositionType=CONT|SpaceAfter=No
+10	がん	癌	NOUN	名詞-普通名詞-一般	_	13	obj	_	BunsetuPosition=I|JPYomi=ガン|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+11	を	を	ADP	助詞-格助詞	_	10	case	_	BunsetuPosition=I|JPYomi=ヲ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+12	宣告	宣告	VERB	名詞-普通名詞-サ変可能	_	13	aux	_	BunsetuPosition=B|JPYomi=センコク|BunsetuPositionType=CONT|SpaceAfter=No
+13	さ	為る	AUX	動詞-非自立可能	_	16	acl	_	BunsetuPosition=I|JPYomi=スル|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+14	れ	れる	AUX	助動詞	_	13	aux	_	BunsetuPosition=I|JPYomi=レル|BunsetuPositionType=FUNC|SpaceAfter=No
+15	た	た	AUX	助動詞	_	13	aux	_	BunsetuPosition=I|JPYomi=タ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+16	患者	患者	NOUN	名詞-普通名詞-一般	_	18	nmod	_	BunsetuPosition=B|JPYomi=カンジャ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+17	の	の	ADP	助詞-格助詞	_	16	case	_	BunsetuPosition=I|JPYomi=ノ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+18	痛み	痛み	NOUN	名詞-普通名詞-一般	_	20	obj	_	BunsetuPosition=B|JPYomi=イタミ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+19	を	を	ADP	助詞-格助詞	_	18	case	_	BunsetuPosition=I|JPYomi=ヲ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+20	やわらげる	和らげる	VERB	動詞-一般	_	21	acl	_	BunsetuPosition=B|JPYomi=ヤワラゲル|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+21	効果	効果	NOUN	名詞-普通名詞-一般	_	23	nsubj	_	BunsetuPosition=B|JPYomi=コウカ|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+22	が	が	ADP	助詞-格助詞	_	21	case	_	BunsetuPosition=I|JPYomi=ガ|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+23	ある	有る	VERB	動詞-非自立可能	_	27	advcl	_	BunsetuPosition=B|JPYomi=アル|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+24	、	、	PUNCT	補助記号-読点	_	23	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+25	と	と	ADP	助詞-格助詞	_	23	case	_	BunsetuPosition=I|JPYomi=ト|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+26	注目	注目	VERB	名詞-普通名詞-サ変可能	_	27	aux	_	BunsetuPosition=B|JPYomi=チュウモク|BunsetuPositionType=CONT|SpaceAfter=No
+27	さ	為る	AUX	動詞-非自立可能	_	0	root	_	BunsetuPosition=I|JPYomi=スル|BunsetuPositionType=ROOT|SpaceAfter=No
+28	れ	れる	AUX	助動詞	_	27	aux	_	BunsetuPosition=I|JPYomi=レル|BunsetuPositionType=FUNC|SpaceAfter=No
+29	て	て	SCONJ	助詞-接続助詞	_	27	mark	_	BunsetuPosition=I|JPYomi=テ|BunsetuPositionType=FUNC|SpaceAfter=No
+30	いる	居る	AUX	動詞-非自立可能	_	27	aux	_	BunsetuPosition=I|JPYomi=イル|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+31	。	。	PUNCT	補助記号-句点	_	27	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+

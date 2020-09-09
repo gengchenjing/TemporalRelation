@@ -1,0 +1,5707 @@
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=overlapped-by
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=overlapped-by
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=overlaps
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=vague
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=contains
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=during
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=after
+
+A001n_PN1c_00001-5	13	留学	e1	21	出産	root	|reltype=before
