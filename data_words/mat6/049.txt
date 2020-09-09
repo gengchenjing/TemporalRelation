@@ -1,0 +1,11 @@
+A049n_PN1e_00004-7	['当たり', '押し出し']	reltype=before	A049n_PN1e_00004-8	['寄せ付け']	reltype=before
+A049n_PN1e_00004-9	['思っ']	reltype=overlap	A049n_PN1e_00004-10	['出']	reltype=overlap
+A049n_PN1e_00004-14	['物', '足り']	reltype=before	A049n_PN1e_00004-15	['なっ']	reltype=before
+A049n_PN1e_00004-15	['なっ']	reltype=before	A049n_PN1e_00004-16	['臨め']	reltype=before
+A049n_PN1e_00004-24	['押し出し']	reltype=after	A049n_PN1e_00004-25	['なっ']	reltype=after
+A049n_PN1e_00004-32	['上がら', '苦笑い']	reltype=before	A049n_PN1e_00004-33	['いう']	reltype=before
+A049n_PN1e_00004-33	['いう']	reltype=before	A049n_PN1e_00004-34	['なくなる']	reltype=before
+A049n_PN1e_00004-34	['なくなる']	reltype=overlap	A049n_PN1e_00004-35	['頑張り']	reltype=overlap
+A049n_PN1e_00004-39	['発表', 'し']	reltype=after	A049n_PN1e_00004-40	['パス', 'し']	reltype=after
+A049n_PN1e_00004-50	['伸ばし']	reltype=after	A049n_PN1e_00004-51	['出場', 'し']	reltype=after
+

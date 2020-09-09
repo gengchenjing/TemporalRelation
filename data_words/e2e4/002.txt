@@ -1,0 +1,8 @@
+A002n_PN1d_00001-3	reltype=before	['とまっ', '寄り添う']
+A002n_PN1d_00001-5	reltype=before	['とまっ', '並び']
+A002n_PN1d_00001-5	reltype=before	['並び', '思わ']
+A002n_PN1d_00001-5	reltype=after	['思わ', '移っ']
+A002n_PN1d_00001-6	reltype=overlap	['当て', 'なっ']
+A002n_PN1d_00001-26	reltype=before	['オープン', '突破']
+A002n_PN1d_00001-33	reltype=before	['み', '予定']
+

@@ -1,0 +1,10 @@
+A040n_PN3b_00003-4	['発表', 'し']	reltype=before	A040n_PN3b_00003-5	['狙う']	reltype=before
+A040n_PN3b_00003-7	['なっ']	reltype=after	A040n_PN3b_00003-8	['獲得', '出場']	reltype=after
+A040n_PN3b_00003-8	['獲得', '出場']	reltype=before	A040n_PN3b_00003-9	['発表', '予定']	reltype=before
+A040n_PN3b_00003-15	['決め']	reltype=overlap	A040n_PN3b_00003-16	['争っ']	reltype=overlap
+A040n_PN3b_00003-19	['し']	reltype=overlap	A040n_PN3b_00003-20	['ない', '話し']	reltype=overlap
+A040n_PN3b_00003-25	['始まる']	reltype=after	A040n_PN3b_00003-26	['なっ']	reltype=after
+A040n_PN3b_00003-26	['なっ']	reltype=overlap	A040n_PN3b_00003-27	['確かめ']	reltype=overlap
+A040n_PN3b_00003-27	['確かめ']	reltype=overlap	A040n_PN3b_00003-28	['なっ', 'ウッズ']	reltype=overlap
+A040n_PN3b_00003-31	['続く', '達成']	reltype=after	A040n_PN3b_00003-32	['かかっ']	reltype=after
+

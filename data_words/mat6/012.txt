@@ -1,0 +1,6 @@
+A012n_PN4g_00001-5	['提出', 'し']	reltype=after	A012n_PN4g_00001-6	['採択', 'さ']	reltype=after
+A012n_PN4g_00001-11	['取り組ん', '提唱']	reltype=overlap	A012n_PN4g_00001-12	['果たし']	reltype=overlap
+A012n_PN4g_00001-17	['表明', 'し']	reltype=after	A012n_PN4g_00001-18	['認め']	reltype=after
+A012n_PN4g_00001-27	['決め']	reltype=before	A012n_PN4g_00001-28	['つき', 'そう']	reltype=before
+A012n_PN4g_00001-28	['つき', 'そう']	reltype=after	A012n_PN4g_00001-29	['持た']	reltype=after
+

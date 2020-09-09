@@ -1,0 +1,22 @@
+A042n_PN4g_00003-4	['取り戻す']	reltype=before	A042n_PN4g_00003-5	['受賞', 'さん']	reltype=before
+A042n_PN4g_00003-5	['受賞', 'さん']	reltype=after	A042n_PN4g_00003-6	['救わ']	reltype=after
+A042n_PN4g_00003-6	['救わ']	reltype=before	A042n_PN4g_00003-7	['なっ']	reltype=before
+A042n_PN4g_00003-11	['受賞', 'さん']	reltype=after	A042n_PN4g_00003-12	['手繰り寄せ']	reltype=after
+A042n_PN4g_00003-18	['いか']	reltype=overlap	A042n_PN4g_00003-19	['し']	reltype=overlap
+A042n_PN4g_00003-19	['し']	reltype=after	A042n_PN4g_00003-20	['なっ', '時期']	reltype=after
+A042n_PN4g_00003-21	['追わ']	reltype=overlap	A042n_PN4g_00003-22	['相談', '二']	reltype=overlap
+A042n_PN4g_00003-24	['渡米', 'し']	reltype=before	A042n_PN4g_00003-25	['持っ']	reltype=before
+A042n_PN4g_00003-27	['見つめ']	reltype=before	A042n_PN4g_00003-28	['言っ']	reltype=before
+A042n_PN4g_00003-32	['振り返る']	reltype=after	A042n_PN4g_00003-33	['誘っ']	reltype=after
+A042n_PN4g_00003-40	['傾け']	reltype=overlap	A042n_PN4g_00003-41	['探る', '娘']	reltype=overlap
+A042n_PN4g_00003-41	['探る', '娘']	reltype=overlap	A042n_PN4g_00003-42	['支え']	reltype=overlap
+A042n_PN4g_00003-43	['書き込ま', '面白かっ']	reltype=before	A042n_PN4g_00003-44	['き', '感じ']	reltype=before
+A042n_PN4g_00003-47	['入っ']	reltype=before	A042n_PN4g_00003-48	['見守っ']	reltype=before
+A042n_PN4g_00003-48	['見守っ']	reltype=before	A042n_PN4g_00003-49	['見せ']	reltype=before
+A042n_PN4g_00003-49	['見せ']	reltype=after	A042n_PN4g_00003-50	['出版', '笑う']	reltype=after
+A042n_PN4g_00003-51	['思う']	reltype=after	A042n_PN4g_00003-52	['救わ']	reltype=after
+A042n_PN4g_00003-55	['落ち着い']	reltype=overlap	A042n_PN4g_00003-56	['出掛ける']	reltype=overlap
+A042n_PN4g_00003-57	['加わっ', '一行']	reltype=vague	A042n_PN4g_00003-58	['酌み', '交わす']	reltype=vague
+A042n_PN4g_00003-58	['酌み', '交わす']	reltype=overlap	A042n_PN4g_00003-59	['付き合う']	reltype=overlap
+A042n_PN4g_00003-59	['付き合う']	reltype=before	A042n_PN4g_00003-60	['いう']	reltype=before
+

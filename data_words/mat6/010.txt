@@ -1,0 +1,10 @@
+A010n_PN4c_00001-4	['し']	reltype=after	A010n_PN4c_00001-5	['聞い']	reltype=after
+A010n_PN4c_00001-9	['開か']	reltype=after	A010n_PN4c_00001-10	['語っ']	reltype=after
+A010n_PN4c_00001-13	['漏らし']	reltype=after	A010n_PN4c_00001-14	['志し']	reltype=after
+A010n_PN4c_00001-14	['志し']	reltype=before	A010n_PN4c_00001-15	['抜てき', '公子']	reltype=before
+A010n_PN4c_00001-15	['抜てき', '公子']	reltype=before	A010n_PN4c_00001-16	['連ね']	reltype=before
+A010n_PN4c_00001-16	['連ね']	reltype=after	A010n_PN4c_00001-17	['滞在', 'し']	reltype=after
+A010n_PN4c_00001-17	['滞在', 'し']	reltype=overlap	A010n_PN4c_00001-18	['運び', '吸収']	reltype=overlap
+A010n_PN4c_00001-19	['加え']	reltype=vague	A010n_PN4c_00001-20	['奪わ']	reltype=vague
+A010n_PN4c_00001-27	['輝か']	reltype=overlap	A010n_PN4c_00001-28	['つくりだす', 'さん']	reltype=overlap
+

@@ -1,0 +1,31 @@
+A035n_PN1e_00003-5	['食い込ん']	reltype=vague	A035n_PN1e_00003-6	['制し']	reltype=vague
+A035n_PN1e_00003-10	['落選', 'し']	reltype=vague	A035n_PN1e_00003-11	['なっ']	reltype=vague
+A035n_PN1e_00003-24	['覆し', '力']	reltype=after	A035n_PN1e_00003-25	['絞っ', '練習']	reltype=after
+A035n_PN1e_00003-25	['絞っ', '練習']	reltype=before	A035n_PN1e_00003-26	['終わっ']	reltype=before
+A035n_PN1e_00003-26	['終わっ']	reltype=overlap	A035n_PN1e_00003-27	['考え']	reltype=overlap
+A035n_PN1e_00003-27	['考え']	reltype=overlap	A035n_PN1e_00003-28	['いう']	reltype=overlap
+A035n_PN1e_00003-29	['出し', '結果']	reltype=before	A035n_PN1e_00003-30	['狙い', '満々']	reltype=before
+A035n_PN1e_00003-36	['でき']	reltype=after	A035n_PN1e_00003-37	['臨ん']	reltype=after
+A035n_PN1e_00003-37	['臨ん']	reltype=before	A035n_PN1e_00003-38	['上回れ', 'ポツリ']	reltype=before
+A035n_PN1e_00003-38	['上回れ', 'ポツリ']	reltype=before	A035n_PN1e_00003-39	['誓っ']	reltype=before
+A035n_PN1e_00003-42	['ほころん']	reltype=after	A035n_PN1e_00003-43	['行わ', '覇者']	reltype=after
+A035n_PN1e_00003-49	['残れ']	reltype=before	A035n_PN1e_00003-50	['話し']	reltype=before
+A035n_PN1e_00003-50	['話し']	reltype=after	A035n_PN1e_00003-51	['外し']	reltype=after
+A035n_PN1e_00003-53	['応援', 'おかげ']	reltype=before	A035n_PN1e_00003-54	['感謝', 'し']	reltype=before
+A035n_PN1e_00003-60	['争う', '展開']	reltype=overlap	A035n_PN1e_00003-61	['思っ', 'ミス']	reltype=overlap
+A035n_PN1e_00003-61	['思っ', 'ミス']	reltype=before	A035n_PN1e_00003-62	['決め']	reltype=before
+A035n_PN1e_00003-62	['決め']	reltype=before	A035n_PN1e_00003-63	['意気', '込ん']	reltype=before
+A035n_PN1e_00003-69	['見せ']	reltype=before	A035n_PN1e_00003-70	['張っ']	reltype=before
+A035n_PN1e_00003-70	['張っ']	reltype=after	A035n_PN1e_00003-71	['戦い', '抜い']	reltype=after
+A035n_PN1e_00003-71	['戦い', '抜い']	reltype=overlap	A035n_PN1e_00003-72	['握っ']	reltype=overlap
+A035n_PN1e_00003-72	['握っ']	reltype=after	A035n_PN1e_00003-73	['でき']	reltype=after
+A035n_PN1e_00003-73	['でき']	reltype=before	A035n_PN1e_00003-74	['果たし']	reltype=before
+A035n_PN1e_00003-74	['果たし']	reltype=before	A035n_PN1e_00003-75	['しかっ', '残っ']	reltype=before
+A035n_PN1e_00003-81	['開幕', 'し']	reltype=before	A035n_PN1e_00003-82	['敗れ']	reltype=before
+A035n_PN1e_00003-82	['敗れ']	reltype=overlap	A035n_PN1e_00003-83	['完敗', 'し']	reltype=overlap
+A035n_PN1e_00003-83	['完敗', 'し']	reltype=before	A035n_PN1e_00003-84	['対戦', 'する']	reltype=before
+A035n_PN1e_00003-89	['奪っ']	reltype=before	A035n_PN1e_00003-90	['加え']	reltype=before
+A035n_PN1e_00003-92	['響い']	reltype=after	A035n_PN1e_00003-93	['放つ', '露呈']	reltype=after
+A035n_PN1e_00003-95	['縮め']	reltype=before	A035n_PN1e_00003-96	['残っ']	reltype=before
+A035n_PN1e_00003-98	['開い']	reltype=after	A035n_PN1e_00003-99	['取っ', 'もん']	reltype=after
+

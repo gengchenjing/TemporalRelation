@@ -1,0 +1,11 @@
+A031n_PN5b_00002-10	['設置', 'し']	reltype=before	A031n_PN5b_00002-11	['流す']	reltype=before
+A031n_PN5b_00002-11	['流す']	reltype=after	A031n_PN5b_00002-12	['かすめ']	reltype=after
+A031n_PN5b_00002-18	['話す']	reltype=after	A031n_PN5b_00002-19	['茂っ']	reltype=after
+A031n_PN5b_00002-19	['茂っ']	reltype=before	A031n_PN5b_00002-20	['嫌わ', 'つ']	reltype=before
+A031n_PN5b_00002-20	['嫌わ', 'つ']	reltype=before	A031n_PN5b_00002-21	['撤去', 'し']	reltype=before
+A031n_PN5b_00002-23	['確認', 'さ']	reltype=overlap	A031n_PN5b_00002-24	['休ま']	reltype=overlap
+A031n_PN5b_00002-24	['休ま']	reltype=overlap	A031n_PN5b_00002-25	['生きる']	reltype=overlap
+A031n_PN5b_00002-37	['受講', 'し']	reltype=vague	A031n_PN5b_00002-38	['なっ', '解説']	reltype=vague
+A031n_PN5b_00002-38	['なっ', '解説']	reltype=vague	A031n_PN5b_00002-39	['挑戦', 'し']	reltype=vague
+A031n_PN5b_00002-39	['挑戦', 'し']	reltype=overlap	A031n_PN5b_00002-40	['提供', 'し']	reltype=overlap
+

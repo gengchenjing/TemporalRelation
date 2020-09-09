@@ -1,0 +1,10 @@
+A034n_PN1d_00003-3	['分かっ']	reltype=after	A034n_PN1d_00003-4	['告訴', 'し']	reltype=after
+A034n_PN1d_00003-7	['チェック', '日']	reltype=before	A034n_PN1d_00003-8	['わかっ']	reltype=before
+A034n_PN1d_00003-11	['通報', 'し']	reltype=before	A034n_PN1d_00003-12	['入っ']	reltype=before
+A034n_PN1d_00003-14	['み']	reltype=overlap	A034n_PN1d_00003-15	['判明', 'し']	reltype=overlap
+A034n_PN1d_00003-15	['判明', 'し']	reltype=after	A034n_PN1d_00003-16	['出']	reltype=after
+A034n_PN1d_00003-16	['出']	reltype=before	A034n_PN1d_00003-17	['話し']	reltype=before
+A034n_PN1d_00003-21	['し', '逮捕']	reltype=before	A034n_PN1d_00003-22	['逮捕', 'し']	reltype=before
+A034n_PN1d_00003-22	['逮捕', 'し']	reltype=after	A034n_PN1d_00003-23	['だまし取っ', '疑い']	reltype=after
+A034n_PN1d_00003-27	['経', 'デビュー']	reltype=before	A034n_PN1d_00003-28	['呼ん']	reltype=before
+

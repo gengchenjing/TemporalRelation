@@ -1,0 +1,10 @@
+A027n_PN3e_00002-3	reltype=overlap	['２', '消費']
+A027n_PN3e_00002-4	reltype=before	['前', '減っ']
+A027n_PN3e_00002-13	reltype=overlap	['今春', '受け']
+A027n_PN3e_00002-13	reltype=overlap	['今春', '卒業']
+A027n_PN3e_00002-21	reltype=after	['十', '開い']
+A027n_PN3e_00002-21	reltype=after	['十', '合わせ']
+A027n_PN3e_00002-21	reltype=after	['十', '募集']
+A027n_PN3e_00002-21	reltype=overlap	['十', '発表']
+A027n_PN3e_00002-22	reltype=overlap	['四', '選ば']
+

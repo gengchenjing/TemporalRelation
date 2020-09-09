@@ -1,0 +1,13 @@
+A044n_PN5b_00003-7	reltype=before	['抑制', 'なる']
+A044n_PN5b_00003-7	reltype=overlap	['持っ', 'うなずい']
+A044n_PN5b_00003-12	reltype=before	['目指し', '説明']
+A044n_PN5b_00003-16	reltype=before	['付け', 'なくす']
+A044n_PN5b_00003-16	reltype=after	['出', 'いう']
+A044n_PN5b_00003-20	reltype=overlap	['し', '説明']
+A044n_PN5b_00003-22	reltype=after	['評価', '選ぶ']
+A044n_PN5b_00003-23	reltype=overlap	['いる', '及ぶ']
+A044n_PN5b_00003-29	reltype=before	['目指す', '勝つ']
+A044n_PN5b_00003-30	reltype=after	['いう', '転職']
+A044n_PN5b_00003-30	reltype=overlap	['転職', 'き']
+A044n_PN5b_00003-33	reltype=overlap	['揺れ', '続く']
+

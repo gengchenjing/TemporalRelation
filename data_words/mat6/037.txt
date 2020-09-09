@@ -1,0 +1,20 @@
+A037n_PN2d_00003-6	['吹き飛ばし', '格好']	reltype=before	A037n_PN2d_00003-7	['ある']	reltype=before
+A037n_PN2d_00003-12	['動い']	reltype=before	A037n_PN2d_00003-13	['比べ', '高']	reltype=before
+A037n_PN2d_00003-14	['示し']	reltype=after	A037n_PN2d_00003-15	['あっ']	reltype=after
+A037n_PN2d_00003-20	['開始', 'する']	reltype=after	A037n_PN2d_00003-21	['つながっ']	reltype=after
+A037n_PN2d_00003-22	['かける']	reltype=before	A037n_PN2d_00003-23	['感じ', '始め']	reltype=before
+A037n_PN2d_00003-28	['自画', 'し']	reltype=vague	A037n_PN2d_00003-29	['指摘', 'し']	reltype=vague
+A037n_PN2d_00003-29	['指摘', 'し']	reltype=overlap	A037n_PN2d_00003-30	['い']	reltype=overlap
+A037n_PN2d_00003-33	['み']	reltype=before	A037n_PN2d_00003-34	['出', 'どう']	reltype=before
+A037n_PN2d_00003-37	['指摘', 'する']	reltype=before	A037n_PN2d_00003-38	['集まる']	reltype=before
+A037n_PN2d_00003-39	['加速', 'わけ']	reltype=after	A037n_PN2d_00003-40	['みる']	reltype=after
+A037n_PN2d_00003-40	['みる']	reltype=vague	A037n_PN2d_00003-41	['みる']	reltype=vague
+A037n_PN2d_00003-46	['選出', 'し']	reltype=before	A037n_PN2d_00003-47	['誕生', 'する']	reltype=before
+A037n_PN2d_00003-47	['誕生', 'する']	reltype=after	A037n_PN2d_00003-48	['続い']	reltype=after
+A037n_PN2d_00003-48	['続い']	reltype=before	A037n_PN2d_00003-49	['み']	reltype=before
+A037n_PN2d_00003-51	['及ば']	reltype=overlap	A037n_PN2d_00003-52	['模索', 'し']	reltype=overlap
+A037n_PN2d_00003-52	['模索', 'し']	reltype=overlap	A037n_PN2d_00003-53	['要求', '決裂']	reltype=overlap
+A037n_PN2d_00003-53	['要求', '決裂']	reltype=before	A037n_PN2d_00003-54	['演じ']	reltype=before
+A037n_PN2d_00003-54	['演じ']	reltype=before	A037n_PN2d_00003-55	['至っ']	reltype=before
+A037n_PN2d_00003-59	['なっ', '就任']	reltype=before	A037n_PN2d_00003-60	['結成', 'し']	reltype=before
+

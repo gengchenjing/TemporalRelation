@@ -1,0 +1,14 @@
+A050n_PN2b_00004-2	['認める']	reltype=vague	A050n_PN2b_00004-3	['合意', 'でき']	reltype=vague
+A050n_PN2b_00004-5	['閉幕', 'し']	reltype=before	A050n_PN2b_00004-6	['続行', '見込み']	reltype=before
+A050n_PN2b_00004-6	['続行', '見込み']	reltype=after	A050n_PN2b_00004-7	['認め']	reltype=after
+A050n_PN2b_00004-8	['いう']	reltype=after	A050n_PN2b_00004-9	['出し']	reltype=after
+A050n_PN2b_00004-9	['出し']	reltype=overlap	A050n_PN2b_00004-10	['宣言', '内容']	reltype=overlap
+A050n_PN2b_00004-10	['宣言', '内容']	reltype=before	A050n_PN2b_00004-11	['追い込ま']	reltype=before
+A050n_PN2b_00004-18	['し']	reltype=after	A050n_PN2b_00004-19	['帰国', 'し']	reltype=after
+A050n_PN2b_00004-19	['帰国', 'し']	reltype=before	A050n_PN2b_00004-20	['訪問', 'する']	reltype=before
+A050n_PN2b_00004-26	['閉幕', 'し']	reltype=after	A050n_PN2b_00004-27	['約束', 'し']	reltype=after
+A050n_PN2b_00004-31	['明記', 'し']	reltype=overlap	A050n_PN2b_00004-32	['促し']	reltype=overlap
+A050n_PN2b_00004-32	['促し']	reltype=overlap	A050n_PN2b_00004-33	['なっ']	reltype=overlap
+A050n_PN2b_00004-33	['なっ']	reltype=after	A050n_PN2b_00004-34	['参加', 'し']	reltype=after
+A050n_PN2b_00004-34	['参加', 'し']	reltype=before	A050n_PN2b_00004-35	['相', '次い']	reltype=before
+

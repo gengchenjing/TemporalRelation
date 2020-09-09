@@ -1,0 +1,24 @@
+A043n_PN5a_00003-1	['減る']	reltype=after	A043n_PN5a_00003-2	['含め', '必要']	reltype=after
+A043n_PN5a_00003-2	['含め', '必要']	reltype=after	A043n_PN5a_00003-3	['並ん']	reltype=after
+A043n_PN5a_00003-8	['減らす', '公約']	reltype=after	A043n_PN5a_00003-9	['盛り込ま']	reltype=after
+A043n_PN5a_00003-10	['さ', '向上']	reltype=before	A043n_PN5a_00003-11	['つながる']	reltype=before
+A043n_PN5a_00003-11	['つながる']	reltype=after	A043n_PN5a_00003-12	['設け']	reltype=after
+A043n_PN5a_00003-17	['打ち出し', '庁']	reltype=overlap	A043n_PN5a_00003-18	['切り替わる']	reltype=overlap
+A043n_PN5a_00003-18	['切り替わる']	reltype=before	A043n_PN5a_00003-19	['する']	reltype=before
+A043n_PN5a_00003-19	['する']	reltype=after	A043n_PN5a_00003-20	['いう']	reltype=after
+A043n_PN5a_00003-20	['いう']	reltype=after	A043n_PN5a_00003-21	['減っ']	reltype=after
+A043n_PN5a_00003-26	['指摘', 'する']	reltype=before	A043n_PN5a_00003-27	['減れ', '分']	reltype=before
+A043n_PN5a_00003-33	['いう']	reltype=overlap	A043n_PN5a_00003-34	['期待', 'つ']	reltype=overlap
+A043n_PN5a_00003-38	['ある']	reltype=after	A043n_PN5a_00003-39	['予定', '整備']	reltype=after
+A043n_PN5a_00003-39	['予定', '整備']	reltype=before	A043n_PN5a_00003-40	['利用', 'する']	reltype=before
+A043n_PN5a_00003-40	['利用', 'する']	reltype=before	A043n_PN5a_00003-41	['貢献', '論理']	reltype=before
+A043n_PN5a_00003-41	['貢献', '論理']	reltype=after	A043n_PN5a_00003-42	['入れ']	reltype=after
+A043n_PN5a_00003-42	['入れ']	reltype=before	A043n_PN5a_00003-43	['訴え']	reltype=before
+A043n_PN5a_00003-47	['浴び', '多い']	reltype=before	A043n_PN5a_00003-48	['発表', 'し']	reltype=before
+A043n_PN5a_00003-52	['あび', '少なかっ']	reltype=after	A043n_PN5a_00003-53	['役立てよう', '実施']	reltype=after
+A043n_PN5a_00003-53	['役立てよう', '実施']	reltype=before	A043n_PN5a_00003-54	['過ごす', '最短']	reltype=before
+A043n_PN5a_00003-57	['過ごし', '記録']	reltype=before	A043n_PN5a_00003-58	['算出', 'し']	reltype=before
+A043n_PN5a_00003-58	['算出', 'し']	reltype=before	A043n_PN5a_00003-59	['いう']	reltype=before
+A043n_PN5a_00003-59	['いう']	reltype=before	A043n_PN5a_00003-60	['悩ま', '必要']	reltype=before
+A043n_PN5a_00003-60	['悩ま', '必要']	reltype=after	A043n_PN5a_00003-61	['訴え']	reltype=after
+

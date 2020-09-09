@@ -1,0 +1,10 @@
+A030n_PN5a_00002-40	reltype=overlap	['なっ', 'なっ']
+A030n_PN5a_00002-40	reltype=overlap	['なっ', '見える']
+A030n_PN5a_00002-43	reltype=before	['分別', 'リサイクル']
+A030n_PN5a_00002-44	reltype=after	['開発', '見']
+A030n_PN5a_00002-46	reltype=overlap	['持っ', '取り組ん']
+A030n_PN5a_00002-54	reltype=after	['貢献', '急が']
+A030n_PN5a_00002-59	reltype=after	['与える', '見極めよう']
+A030n_PN5a_00002-59	reltype=overlap	['見極めよう', 'する']
+A030n_PN5a_00002-59	reltype=before	['振れ', 'なり']
+

@@ -1,0 +1,15 @@
+A052n_PN2e_00004-7	['右傾', 'もっぱら']	reltype=after	A052n_PN2e_00004-8	['正式', 'し']	reltype=after
+A052n_PN2e_00004-8	['正式', 'し']	reltype=after	A052n_PN2e_00004-9	['担っ']	reltype=after
+A052n_PN2e_00004-11	['拮抗', '氏']	reltype=after	A052n_PN2e_00004-12	['始まっ']	reltype=after
+A052n_PN2e_00004-12	['始まっ']	reltype=before	A052n_PN2e_00004-13	['得']	reltype=before
+A052n_PN2e_00004-13	['得']	reltype=before	A052n_PN2e_00004-14	['み']	reltype=before
+A052n_PN2e_00004-15	['防ぐ', '構図']	reltype=before	A052n_PN2e_00004-16	['示し']	reltype=before
+A052n_PN2e_00004-16	['示し']	reltype=before	A052n_PN2e_00004-17	['高まる', '確実']	reltype=before
+A052n_PN2e_00004-20	['さ']	reltype=before	A052n_PN2e_00004-21	['発覚', 'し']	reltype=before
+A052n_PN2e_00004-21	['発覚', 'し']	reltype=before	A052n_PN2e_00004-22	['強まっ']	reltype=before
+A052n_PN2e_00004-27	['確実', 'さ']	reltype=overlap	A052n_PN2e_00004-28	['示し']	reltype=overlap
+A052n_PN2e_00004-34	['始まっ']	reltype=before	A052n_PN2e_00004-35	['現す']	reltype=before
+A052n_PN2e_00004-35	['現す']	reltype=after	A052n_PN2e_00004-36	['指定', 'し']	reltype=after
+A052n_PN2e_00004-36	['指定', 'し']	reltype=before	A052n_PN2e_00004-37	['住む', '状態']	reltype=before
+A052n_PN2e_00004-37	['住む', '状態']	reltype=overlap	A052n_PN2e_00004-38	['行わ']	reltype=overlap
+

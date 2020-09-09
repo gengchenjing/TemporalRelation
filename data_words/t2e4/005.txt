@@ -1,0 +1,3 @@
+A005n_PN2e_00001-9	reltype=overlap	['今月', '行っ']
+A005n_PN2e_00001-27	reltype=overlap	['二', '営業']
+

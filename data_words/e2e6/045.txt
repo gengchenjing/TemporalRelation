@@ -1,0 +1,12 @@
+A045n_PN5c_00003-11	reltype=before	['開か', '見せつけ']
+A045n_PN5c_00003-13	reltype=before	['平均', '走っ']
+A045n_PN5c_00003-17	reltype=overlap	['走る', 'かかっ']
+A045n_PN5c_00003-18	reltype=overlap	['走る', 'かかっ']
+A045n_PN5c_00003-26	reltype=overlap	['指す', 'なり']
+A045n_PN5c_00003-31	reltype=overlap	['開い', 'わくわく']
+A045n_PN5c_00003-31	reltype=before	['わくわく', '思いだし']
+A045n_PN5c_00003-35	reltype=before	['組み合わせ', '作っ']
+A045n_PN5c_00003-39	reltype=overlap	['実質', 'し']
+A045n_PN5c_00003-39	reltype=before	['協議', '分かっ']
+A045n_PN5c_00003-40	reltype=overlap	['知ら', '認識']
+

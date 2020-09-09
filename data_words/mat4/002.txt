@@ -1,0 +1,8 @@
+A002n_PN1d_00001-5	['移っ']	reltype=before	A002n_PN1d_00001-6	['なり']	reltype=before
+A002n_PN1d_00001-6	['なり']	reltype=vague	A002n_PN1d_00001-7	['出会っ', '石像']	reltype=vague
+A002n_PN1d_00001-7	['出会っ', '石像']	reltype=before	A002n_PN1d_00001-8	['取れ', 'そう']	reltype=before
+A002n_PN1d_00001-8	['取れ', 'そう']	reltype=vague	A002n_PN1d_00001-9	['眠る', 'ニャンコ']	reltype=vague
+A002n_PN1d_00001-20	['掲載', 'さ']	reltype=before	A002n_PN1d_00001-21	['贈り']	reltype=before
+A002n_PN1d_00001-26	['突破', 'し']	reltype=vague	A002n_PN1d_00001-27	['し']	reltype=vague
+A002n_PN1d_00001-33	['いう']	reltype=vague	A002n_PN1d_00001-34	['手渡さ']	reltype=vague
+

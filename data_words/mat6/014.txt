@@ -1,0 +1,9 @@
+A014n_PN1b_00002-3	['分かっ']	reltype=after	A014n_PN1b_00002-4	['なっ']	reltype=after
+A014n_PN1b_00002-4	['なっ']	reltype=after	A014n_PN1b_00002-5	['受け入れ', '増']	reltype=after
+A014n_PN1b_00002-25	['判断', 'する']	reltype=after	A014n_PN1b_00002-26	['注目', 'さ']	reltype=after
+A014n_PN1b_00002-29	['露呈', 'さ']	reltype=overlap	A014n_PN1b_00002-30	['続い']	reltype=overlap
+A014n_PN1b_00002-31	['確保', 'し']	reltype=before	A014n_PN1b_00002-32	['流動', 'する']	reltype=before
+A014n_PN1b_00002-33	['なる', 'なら']	reltype=after	A014n_PN1b_00002-34	['考え']	reltype=after
+A014n_PN1b_00002-35	['重要', 'さ']	reltype=overlap	A014n_PN1b_00002-36	['し', '力説']	reltype=overlap
+A014n_PN1b_00002-37	['了承', 'さ']	reltype=after	A014n_PN1b_00002-38	['割り込む']	reltype=after
+

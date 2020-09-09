@@ -1,0 +1,2 @@
+A004n_PN1f_00001-9	reltype=before	['題し', '話す']
+

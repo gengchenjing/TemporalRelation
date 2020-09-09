@@ -1,0 +1,7 @@
+A025n_PN3c_00002-8	reltype=before	['十', '役立つ']
+A025n_PN3c_00002-8	reltype=after	['十', '組ん']
+A025n_PN3c_00002-8	reltype=overlap	['十', '強調']
+A025n_PN3c_00002-22	reltype=before	['十', '話し合う']
+A025n_PN3c_00002-22	reltype=before	['十', '開催']
+A025n_PN3c_00002-22	reltype=before	['十', '提言']
+

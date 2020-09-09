@@ -1,0 +1,10 @@
+A015n_PN1d_00002-2	['転じ']	reltype=after	A015n_PN1d_00002-3	['増え', '主因']	reltype=after
+A015n_PN1d_00002-3	['増え', '主因']	reltype=before	A015n_PN1d_00002-4	['集計', '一']	reltype=before
+A015n_PN1d_00002-10	['開発', 'し']	reltype=before	A015n_PN1d_00002-11	['商品', 'する']	reltype=before
+A015n_PN1d_00002-11	['商品', 'する']	reltype=vague	A015n_PN1d_00002-12	['解析', '仕組み']	reltype=vague
+A015n_PN1d_00002-12	['解析', '仕組み']	reltype=vague	A015n_PN1d_00002-13	['いう']	reltype=vague
+A015n_PN1d_00002-14	['下げ']	reltype=after	A015n_PN1d_00002-15	['発表', 'し']	reltype=after
+A015n_PN1d_00002-15	['発表', 'し']	reltype=before	A015n_PN1d_00002-16	['実施', 'する']	reltype=before
+A015n_PN1d_00002-19	['増加', 'し']	reltype=after	A015n_PN1d_00002-20	['推移', 'し']	reltype=after
+A015n_PN1d_00002-20	['推移', 'し']	reltype=before	A015n_PN1d_00002-21	['発表', '微増']	reltype=before
+

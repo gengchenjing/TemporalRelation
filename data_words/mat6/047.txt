@@ -1,0 +1,17 @@
+A047n_PN1c_00004-7	['集め']	reltype=overlap	A047n_PN1c_00004-8	['届ける', '売り物']	reltype=overlap
+A047n_PN1c_00004-10	['ある']	reltype=after	A047n_PN1c_00004-11	['かかわっ', '集団']	reltype=after
+A047n_PN1c_00004-14	['立ち', '地']	reltype=before	A047n_PN1c_00004-15	['果たし', '大きい']	reltype=before
+A047n_PN1c_00004-16	['強調', 'する']	reltype=overlap	A047n_PN1c_00004-17	['獲得', '工場']	reltype=overlap
+A047n_PN1c_00004-20	['ある']	reltype=overlap	A047n_PN1c_00004-21	['生まれる', '近い']	reltype=overlap
+A047n_PN1c_00004-21	['生まれる', '近い']	reltype=overlap	A047n_PN1c_00004-22	['支援', 'し']	reltype=overlap
+A047n_PN1c_00004-23	['なっ']	reltype=overlap	A047n_PN1c_00004-24	['指摘', 'する']	reltype=overlap
+A047n_PN1c_00004-24	['指摘', 'する']	reltype=overlap	A047n_PN1c_00004-25	['ある']	reltype=overlap
+A047n_PN1c_00004-25	['ある']	reltype=overlap	A047n_PN1c_00004-26	['与え']	reltype=overlap
+A047n_PN1c_00004-27	['担当', 'し']	reltype=after	A047n_PN1c_00004-28	['上げる', '下']	reltype=after
+A047n_PN1c_00004-32	['発売', 'する']	reltype=before	A047n_PN1c_00004-33	['編集', 'できる']	reltype=before
+A047n_PN1c_00004-33	['編集', 'できる']	reltype=before	A047n_PN1c_00004-34	['書き込む']	reltype=before
+A047n_PN1c_00004-39	['発売', 'する']	reltype=after	A047n_PN1c_00004-40	['いう']	reltype=after
+A047n_PN1c_00004-45	['落とす']	reltype=after	A047n_PN1c_00004-46	['発売', 'する']	reltype=after
+A047n_PN1c_00004-46	['発売', 'する']	reltype=after	A047n_PN1c_00004-47	['いう']	reltype=after
+A047n_PN1c_00004-47	['いう']	reltype=before	A047n_PN1c_00004-48	['防げる']	reltype=before
+

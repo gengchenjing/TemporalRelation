@@ -1,0 +1,9 @@
+A032n_PN5c_00002-8	['いう']	reltype=after	A032n_PN5c_00002-9	['演出', '再演']	reltype=after
+A032n_PN5c_00002-10	['浮き立た']	reltype=before	A032n_PN5c_00002-11	['施し', '風']	reltype=before
+A032n_PN5c_00002-18	['響い']	reltype=after	A032n_PN5c_00002-19	['演じ', '惜しい']	reltype=after
+A032n_PN5c_00002-28	['見せる', '難しい']	reltype=after	A032n_PN5c_00002-29	['なる']	reltype=after
+A032n_PN5c_00002-33	['なる']	reltype=before	A032n_PN5c_00002-34	['迎え']	reltype=before
+A032n_PN5c_00002-37	['再現', 'し']	reltype=after	A032n_PN5c_00002-38	['無くなっ', '寂しい']	reltype=after
+A032n_PN5c_00002-38	['無くなっ', '寂しい']	reltype=before	A032n_PN5c_00002-39	['つく']	reltype=before
+A032n_PN5c_00002-41	['配置', 'さ']	reltype=overlap	A032n_PN5c_00002-42	['体現', 'する']	reltype=overlap
+

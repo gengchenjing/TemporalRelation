@@ -1,0 +1,12 @@
+A002n_PN1d_00001-26	reltype=overlap	['昨年', 'オープン']
+A002n_PN1d_00001-26	reltype=before	['昨年', '突破']
+A002n_PN1d_00001-26	reltype=after	['二十', 'オープン']
+A002n_PN1d_00001-26	reltype=overlap	['二十', '突破']
+A002n_PN1d_00001-27	reltype=overlap	['一', '上回り']
+A002n_PN1d_00001-27	reltype=before	['一', 'し']
+A002n_PN1d_00001-27	reltype=overlap	['初', '上回り']
+A002n_PN1d_00001-27	reltype=after	['二', '上回り']
+A002n_PN1d_00001-30	reltype=overlap	['今年', '上回っ']
+A002n_PN1d_00001-33	reltype=vague	['初', '予定']
+A002n_PN1d_00001-33	reltype=before	['初', 'いう']
+

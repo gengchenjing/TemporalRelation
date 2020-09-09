@@ -1,0 +1,4 @@
+A032n_PN5c_00002-9	reltype=overlap	['４', '演出']
+A032n_PN5c_00002-10	reltype=before	['７', '抜き去り']
+A032n_PN5c_00002-18	reltype=before	['３', '響い']
+

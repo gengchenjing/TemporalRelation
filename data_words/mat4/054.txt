@@ -1,0 +1,13 @@
+A054n_PN3b_00004-5	['思う', '次第']	reltype=before	A054n_PN3b_00004-6	['向い']	reltype=before
+A054n_PN3b_00004-6	['向い']	reltype=after	A054n_PN3b_00004-7	['提案', 'し']	reltype=after
+A054n_PN3b_00004-14	['洗濯', '好き']	reltype=before	A054n_PN3b_00004-15	['得']	reltype=before
+A054n_PN3b_00004-15	['得']	reltype=vague	A054n_PN3b_00004-16	['広げる', 'よい']	reltype=vague
+A054n_PN3b_00004-18	['言える']	reltype=before	A054n_PN3b_00004-19	['でき']	reltype=before
+A054n_PN3b_00004-20	['再会', 'いい']	reltype=after	A054n_PN3b_00004-21	['浸っ', '一興']	reltype=after
+A054n_PN3b_00004-23	['いう']	reltype=overlap	A054n_PN3b_00004-24	['取っ']	reltype=overlap
+A054n_PN3b_00004-31	['楽しま']	reltype=overlap	A054n_PN3b_00004-32	['し']	reltype=overlap
+A054n_PN3b_00004-32	['し']	reltype=overlap	A054n_PN3b_00004-33	['調える']	reltype=overlap
+A054n_PN3b_00004-36	['笑う']	reltype=before	A054n_PN3b_00004-37	['試し', '薦め']	reltype=before
+A054n_PN3b_00004-37	['試し', '薦め']	reltype=overlap	A054n_PN3b_00004-38	['高まる', '一方']	reltype=overlap
+A054n_PN3b_00004-40	['演出', 'できる']	reltype=after	A054n_PN3b_00004-41	['いう']	reltype=after
+

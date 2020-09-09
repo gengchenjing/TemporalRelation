@@ -1,0 +1,8 @@
+A019n_PN2b_00002-3	reltype=overlap	['２', 'あっ']
+A019n_PN2b_00002-3	reltype=overlap	['２', 'し']
+A019n_PN2b_00002-3	reltype=after	['２', 'あっ']
+A019n_PN2b_00002-3	reltype=after	['２', 'し']
+A019n_PN2b_00002-5	reltype=before	['先月', '検討']
+A019n_PN2b_00002-31	reltype=overlap	['８', '亡くなっ']
+A019n_PN2b_00002-31	reltype=overlap	['１', '亡くなっ']
+

@@ -1,0 +1,10 @@
+A030n_PN5a_00002-10	reltype=after	['１', '卒業']
+A030n_PN5a_00002-10	reltype=overlap	['１', '歌う']
+A030n_PN5a_00002-10	reltype=after	['２', '卒業']
+A030n_PN5a_00002-10	reltype=overlap	['２', '歌う']
+A030n_PN5a_00002-14	reltype=overlap	['４', '惜しむ']
+A030n_PN5a_00002-26	reltype=overlap	['０', '発表']
+A030n_PN5a_00002-39	reltype=overlap	['今日', 'する']
+A030n_PN5a_00002-45	reltype=overlap	['現在', '組ん']
+A030n_PN5a_00002-61	reltype=overlap	['２', '開業']
+

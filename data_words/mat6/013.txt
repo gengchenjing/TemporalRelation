@@ -1,0 +1,17 @@
+A013n_PN1a_00002-12	['確保', 'ため']	reltype=after	A013n_PN1a_00002-13	['家庭', '日']	reltype=after
+A013n_PN1a_00002-13	['家庭', '日']	reltype=before	A013n_PN1a_00002-14	['確保', 'できる']	reltype=before
+A013n_PN1a_00002-18	['選ぶ']	reltype=vague	A013n_PN1a_00002-19	['話す']	reltype=vague
+A013n_PN1a_00002-22	['い']	reltype=after	A013n_PN1a_00002-23	['なる', '理由']	reltype=after
+A013n_PN1a_00002-28	['復活', 'さ']	reltype=before	A013n_PN1a_00002-29	['いう']	reltype=before
+A013n_PN1a_00002-30	['いう']	reltype=after	A013n_PN1a_00002-31	['実施', 'し']	reltype=after
+A013n_PN1a_00002-32	['もどし']	reltype=before	A013n_PN1a_00002-33	['説明', 'する']	reltype=before
+A013n_PN1a_00002-35	['で']	reltype=before	A013n_PN1a_00002-36	['分析', 'する']	reltype=before
+A013n_PN1a_00002-38	['あっ', 'バラバラ']	reltype=overlap	A013n_PN1a_00002-39	['いう']	reltype=overlap
+A013n_PN1a_00002-45	['なっ']	reltype=before	A013n_PN1a_00002-46	['み']	reltype=before
+A013n_PN1a_00002-53	['もらっ']	reltype=before	A013n_PN1a_00002-54	['なる', '多い']	reltype=before
+A013n_PN1a_00002-58	['受け']	reltype=before	A013n_PN1a_00002-59	['ホッと', 'し']	reltype=before
+A013n_PN1a_00002-62	['決め']	reltype=before	A013n_PN1a_00002-63	['受け']	reltype=before
+A013n_PN1a_00002-71	['通さ']	reltype=before	A013n_PN1a_00002-72	['つかっ']	reltype=before
+A013n_PN1a_00002-79	['終わる', '多い']	reltype=before	A013n_PN1a_00002-80	['思える', '弱']	reltype=before
+A013n_PN1a_00002-92	['うかがわ']	reltype=after	A013n_PN1a_00002-93	['思い浮かべ', '順']	reltype=after
+

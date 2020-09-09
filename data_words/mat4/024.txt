@@ -1,0 +1,15 @@
+A024n_PN3a_00002-8	['いう']	reltype=before	A024n_PN3a_00002-9	['始め', '通信']	reltype=before
+A024n_PN3a_00002-10	['話し']	reltype=before	A024n_PN3a_00002-11	['訴え']	reltype=before
+A024n_PN3a_00002-14	['述べ']	reltype=before	A024n_PN3a_00002-15	['負っ', '発表']	reltype=before
+A024n_PN3a_00002-19	['語っ']	reltype=before	A024n_PN3a_00002-20	['訪問', '語っ']	reltype=before
+A024n_PN3a_00002-23	['陥落', 'し']	reltype=before	A024n_PN3a_00002-24	['形容', 'し']	reltype=before
+A024n_PN3a_00002-24	['形容', 'し']	reltype=before	A024n_PN3a_00002-25	['壊し', '始め']	reltype=before
+A024n_PN3a_00002-28	['演説', 'し']	reltype=before	A024n_PN3a_00002-29	['報じ']	reltype=before
+A024n_PN3a_00002-29	['報じ']	reltype=before	A024n_PN3a_00002-30	['否定', 'し']	reltype=before
+A024n_PN3a_00002-30	['否定', 'し']	reltype=before	A024n_PN3a_00002-31	['倒さ']	reltype=before
+A024n_PN3a_00002-31	['倒さ']	reltype=after	A024n_PN3a_00002-32	['難航', '手助け']	reltype=after
+A024n_PN3a_00002-33	['ぶらさげ']	reltype=before	A024n_PN3a_00002-34	['上がっ']	reltype=before
+A024n_PN3a_00002-39	['行っ']	reltype=overlap	A024n_PN3a_00002-40	['まとまら']	reltype=overlap
+A024n_PN3a_00002-40	['まとまら']	reltype=before	A024n_PN3a_00002-41	['とどまっ']	reltype=before
+A024n_PN3a_00002-42	['訴え']	reltype=before	A024n_PN3a_00002-43	['反対', 'し']	reltype=before
+

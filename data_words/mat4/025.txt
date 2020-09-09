@@ -1,0 +1,3 @@
+A025n_PN3c_00002-21	['難しい']	reltype=overlap	A025n_PN3c_00002-22	['提言', 'する']	reltype=overlap
+A025n_PN3c_00002-22	['提言', 'する']	reltype=overlap	A025n_PN3c_00002-23	['なり']	reltype=overlap
+

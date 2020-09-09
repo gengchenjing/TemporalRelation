@@ -1,0 +1,9 @@
+A009n_PN4b_00001-3	['勝利', 'し']	reltype=before	A009n_PN4b_00001-4	['倒す']	reltype=before
+A009n_PN4b_00001-7	['行っ']	reltype=before	A009n_PN4b_00001-8	['倒す']	reltype=before
+A009n_PN4b_00001-8	['倒す']	reltype=after	A009n_PN4b_00001-9	['上げ']	reltype=after
+A009n_PN4b_00001-11	['起き']	reltype=vague	A009n_PN4b_00001-12	['批判', 'し']	reltype=vague
+A009n_PN4b_00001-18	['求め']	reltype=before	A009n_PN4b_00001-19	['み']	reltype=before
+A009n_PN4b_00001-19	['み']	reltype=before	A009n_PN4b_00001-20	['解消', '透明']	reltype=before
+A009n_PN4b_00001-22	['触れ']	reltype=before	A009n_PN4b_00001-23	['み']	reltype=before
+A009n_PN4b_00001-25	['強調', 'し']	reltype=overlap	A009n_PN4b_00001-26	['残る']	reltype=overlap
+

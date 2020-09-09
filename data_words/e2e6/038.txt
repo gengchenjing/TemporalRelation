@@ -1,0 +1,10 @@
+A038n_PN2f_00003-12	reltype=overlap	['敗れ', '甘んじ']
+A038n_PN2f_00003-18	reltype=overlap	['躍り出る', '考え']
+A038n_PN2f_00003-20	reltype=overlap	['代わっ', '出さ']
+A038n_PN2f_00003-20	reltype=before	['望ん', 'あっ']
+A038n_PN2f_00003-26	reltype=before	['出し', '敗れ']
+A038n_PN2f_00003-35	reltype=before	['関与', 'し']
+A038n_PN2f_00003-35	reltype=before	['問わ', '開か']
+A038n_PN2f_00003-36	reltype=after	['まか', 'かかわっ']
+A038n_PN2f_00003-36	reltype=before	['かかわっ', 'さ']
+

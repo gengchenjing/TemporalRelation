@@ -1,0 +1,5 @@
+A044n_PN5b_00003-5	reltype=overlap	['６', '付け']
+A044n_PN5b_00003-5	reltype=overlap	['５', '付け']
+A044n_PN5b_00003-13	reltype=overlap	['３', '批判']
+A044n_PN5b_00003-30	reltype=before	['３', 'いう']
+

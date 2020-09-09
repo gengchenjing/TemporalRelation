@@ -1,0 +1,11 @@
+A040n_PN3b_00003-15	reltype=before	['行い', '確保']
+A040n_PN3b_00003-15	reltype=before	['確保', '決め']
+A040n_PN3b_00003-16	reltype=overlap	['率いる', '争っ']
+A040n_PN3b_00003-19	reltype=before	['なっ', '就任']
+A040n_PN3b_00003-20	reltype=before	['取っ', '話し']
+A040n_PN3b_00003-27	reltype=after	['狙う', 'かけ']
+A040n_PN3b_00003-29	reltype=after	['勝ち', 'やっ']
+A040n_PN3b_00003-29	reltype=overlap	['やっ', 'ない']
+A040n_PN3b_00003-31	reltype=before	['勝て', '続く']
+A040n_PN3b_00003-38	reltype=before	['骨折', '欠場']
+

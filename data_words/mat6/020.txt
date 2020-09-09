@@ -1,0 +1,9 @@
+A020n_PN2c_00002-2	['聞く']	reltype=before	A020n_PN2c_00002-3	['届ける']	reltype=before
+A020n_PN2c_00002-5	['おくる']	reltype=before	A020n_PN2c_00002-6	['おくる']	reltype=before
+A020n_PN2c_00002-7	['おくる']	reltype=before	A020n_PN2c_00002-8	['極めよう']	reltype=before
+A020n_PN2c_00002-18	['示し']	reltype=after	A020n_PN2c_00002-19	['し']	reltype=after
+A020n_PN2c_00002-27	['わかっ']	reltype=after	A020n_PN2c_00002-28	['参加', '実施']	reltype=after
+A020n_PN2c_00002-28	['参加', '実施']	reltype=after	A020n_PN2c_00002-29	['亡くし', '人']	reltype=after
+A020n_PN2c_00002-29	['亡くし', '人']	reltype=before	A020n_PN2c_00002-30	['思っ', '回答']	reltype=before
+A020n_PN2c_00002-30	['思っ', '回答']	reltype=before	A020n_PN2c_00002-31	['浮かん']	reltype=before
+

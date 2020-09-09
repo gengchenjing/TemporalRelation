@@ -1,0 +1,9 @@
+A001n_PN1c_00001-8	['通っ', 'いう']	reltype=overlap	A001n_PN1c_00001-9	['し']	reltype=overlap
+A001n_PN1c_00001-10	['違っ']	reltype=vague	A001n_PN1c_00001-11	['はずし', 'いい']	reltype=vague
+A001n_PN1c_00001-19	['違っ']	reltype=overlap	A001n_PN1c_00001-20	['張ら']	reltype=overlap
+A001n_PN1c_00001-20	['張ら']	reltype=overlap	A001n_PN1c_00001-21	['言っ']	reltype=overlap
+A001n_PN1c_00001-24	['促し', '先生']	reltype=before	A001n_PN1c_00001-25	['感謝', 'する']	reltype=before
+A001n_PN1c_00001-26	['覚え']	reltype=after	A001n_PN1c_00001-27	['思っ']	reltype=after
+A001n_PN1c_00001-27	['思っ']	reltype=before	A001n_PN1c_00001-28	['送る']	reltype=before
+A001n_PN1c_00001-37	['行う']	reltype=before	A001n_PN1c_00001-38	['届ける']	reltype=before
+

@@ -1,0 +1,20 @@
+A008n_PN4a_00001-15	['話す']	reltype=overlap	A008n_PN4a_00001-16	['使っ', 'し']	reltype=overlap
+A008n_PN4a_00001-16	['活躍', 'し']	reltype=overlap	A008n_PN4a_00001-17	['寄せ']	reltype=overlap
+A008n_PN4a_00001-19	['考え']	reltype=before	A008n_PN4a_00001-20	['いう']	reltype=before
+A008n_PN4a_00001-21	['出し', '９']	reltype=after	A008n_PN4a_00001-22	['開眼', 'し']	reltype=after
+A008n_PN4a_00001-22	['開眼', 'し']	reltype=before	A008n_PN4a_00001-23	['紹介', 'し']	reltype=before
+A008n_PN4a_00001-25	['並べる', 'さん']	reltype=vague	A008n_PN4a_00001-26	['食べ', '内']	reltype=vague
+A008n_PN4a_00001-26	['食べ', '内']	reltype=vague	A008n_PN4a_00001-27	['減る']	reltype=vague
+A008n_PN4a_00001-28	['お', '立場']	reltype=overlap	A008n_PN4a_00001-29	['ある']	reltype=overlap
+A008n_PN4a_00001-29	['ある']	reltype=overlap	A008n_PN4a_00001-30	['出し']	reltype=overlap
+A008n_PN4a_00001-31	['できる']	reltype=after	A008n_PN4a_00001-32	['進化', 'し']	reltype=after
+A008n_PN4a_00001-32	['進化', 'し']	reltype=before	A008n_PN4a_00001-33	['冷蔵', 'さん']	reltype=before
+A008n_PN4a_00001-34	['取り入れ']	reltype=before	A008n_PN4a_00001-35	['選ぶ', '好評']	reltype=before
+A008n_PN4a_00001-36	['出し']	reltype=before	A008n_PN4a_00001-37	['いう']	reltype=before
+A008n_PN4a_00001-43	['つつく']	reltype=before	A008n_PN4a_00001-44	['ふく']	reltype=before
+A008n_PN4a_00001-44	['ふく']	reltype=before	A008n_PN4a_00001-45	['洗い', '半分']	reltype=before
+A008n_PN4a_00001-45	['洗い', '半分']	reltype=before	A008n_PN4a_00001-46	['切る']	reltype=before
+A008n_PN4a_00001-46	['切る']	reltype=before	A008n_PN4a_00001-47	['ふる']	reltype=before
+A008n_PN4a_00001-47	['ふる']	reltype=before	A008n_PN4a_00001-48	['炊く']	reltype=before
+A008n_PN4a_00001-49	['保温', 'する']	reltype=before	A008n_PN4a_00001-50	['盛りつける']	reltype=before
+

@@ -1,0 +1,5 @@
+A032n_PN5c_00002-8	reltype=overlap	['泥沼', '求める']
+A032n_PN5c_00002-8	reltype=before	['支持', 'いう']
+A032n_PN5c_00002-12	reltype=overlap	['教え諭す', '交え']
+A032n_PN5c_00002-29	reltype=overlap	['なる', 'なる']
+

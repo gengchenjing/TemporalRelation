@@ -1,0 +1,13 @@
+A029n_PN4g_00002-8	['開設', '区']	reltype=overlap	A029n_PN4g_00002-9	['語る']	reltype=overlap
+A029n_PN4g_00002-15	['作っ', '意見']	reltype=vague	A029n_PN4g_00002-16	['残る']	reltype=vague
+A029n_PN4g_00002-18	['感じ']	reltype=after	A029n_PN4g_00002-19	['驚い']	reltype=after
+A029n_PN4g_00002-19	['驚い']	reltype=after	A029n_PN4g_00002-20	['聴い']	reltype=after
+A029n_PN4g_00002-20	['聴い']	reltype=before	A029n_PN4g_00002-21	['言っ']	reltype=before
+A029n_PN4g_00002-21	['言っ']	reltype=after	A029n_PN4g_00002-22	['売れ']	reltype=after
+A029n_PN4g_00002-30	['置く', 'ない']	reltype=before	A029n_PN4g_00002-31	['開設', 'する']	reltype=before
+A029n_PN4g_00002-31	['開設', 'する']	reltype=after	A029n_PN4g_00002-32	['ヒット', 'アレンジ']	reltype=after
+A029n_PN4g_00002-33	['歌う']	reltype=overlap	A029n_PN4g_00002-34	['レコーディング', '時代']	reltype=overlap
+A029n_PN4g_00002-34	['レコーディング', '時代']	reltype=overlap	A029n_PN4g_00002-35	['思う']	reltype=overlap
+A029n_PN4g_00002-42	['チェック', '奥']	reltype=vague	A029n_PN4g_00002-43	['歌う', 'ＭＥＬＡ']	reltype=vague
+A029n_PN4g_00002-43	['歌う', 'ＭＥＬＡ']	reltype=before	A029n_PN4g_00002-44	['お', 'し']	reltype=before
+

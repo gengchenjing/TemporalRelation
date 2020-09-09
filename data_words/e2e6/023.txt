@@ -1,0 +1,10 @@
+A023n_PN2g_00002-4	reltype=before	['低下', '響い']
+A023n_PN2g_00002-11	reltype=vague	['示す', 'なっ']
+A023n_PN2g_00002-13	reltype=vague	['示す', '払底']
+A023n_PN2g_00002-13	reltype=before	['払底', '発生']
+A023n_PN2g_00002-14	reltype=before	['始め', '圧迫']
+A023n_PN2g_00002-14	reltype=before	['発生', '響い']
+A023n_PN2g_00002-19	reltype=overlap	['とどまっ', '計上']
+A023n_PN2g_00002-20	reltype=overlap	['なっ', '浮かび上がっ']
+A023n_PN2g_00002-22	reltype=before	['計上', '埋め']
+
