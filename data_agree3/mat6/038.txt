@@ -1,0 +1,15 @@
+A038n_PN2f_00003-7	['疑う', 'よう', '光景']	reltype=after	A038n_PN2f_00003-8	['開か', 'メートル', '目']	reltype=after
+A038n_PN2f_00003-9	['切っ', '目']	reltype=before	A038n_PN2f_00003-10	['削っ']	reltype=before
+A038n_PN2f_00003-10	['削っ']	reltype=before	A038n_PN2f_00003-11	['崩れ落ち']	reltype=before
+A038n_PN2f_00003-11	['崩れ落ち']	reltype=after	A038n_PN2f_00003-12	['甘んじ', '年']	reltype=after
+A038n_PN2f_00003-12	['甘んじ', '年']	reltype=before	A038n_PN2f_00003-13	['迎え', 'とき']	reltype=before
+A038n_PN2f_00003-13	['迎え', 'とき']	reltype=before	A038n_PN2f_00003-14	['終わっ']	reltype=before
+A038n_PN2f_00003-14	['終わっ']	reltype=before	A038n_PN2f_00003-15	['変化', 'し']	reltype=before
+A038n_PN2f_00003-15	['変化', 'し']	reltype=before	A038n_PN2f_00003-16	['けり上げ']	reltype=before
+A038n_PN2f_00003-16	['けり上げ']	reltype=after	A038n_PN2f_00003-17	['出']	reltype=after
+A038n_PN2f_00003-17	['出']	reltype=before	A038n_PN2f_00003-18	['考え']	reltype=before
+A038n_PN2f_00003-19	['見せつけ']	reltype=before	A038n_PN2f_00003-20	['出さ', '談話', 'あっ']	reltype=before
+A038n_PN2f_00003-22	['曇ら']	reltype=after	A038n_PN2f_00003-23	['見', '気持ち']	reltype=after
+A038n_PN2f_00003-26	['敗れ', 'わけ']	reltype=before	A038n_PN2f_00003-27	['呼ぶ', '幕切れ']	reltype=before
+A038n_PN2f_00003-27	['呼ぶ', '幕切れ']	reltype=after	A038n_PN2f_00003-28	['転倒', 'し', 'カナダ', 'ウォザースプーン', '撮影']	reltype=after
+

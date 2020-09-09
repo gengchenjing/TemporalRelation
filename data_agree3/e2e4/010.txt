@@ -1,0 +1,10 @@
+A010n_PN4c_00001-14	reltype=overlap	['育ち', '志し']
+A010n_PN4c_00001-15	reltype=before	['積み', 'さ', '抜てき']
+A010n_PN4c_00001-16	reltype=overlap	['紹介', 'し', '米国', '本', '連ね']
+A010n_PN4c_00001-17	reltype=before	['招か', 'し', '滞在']
+A010n_PN4c_00001-21	reltype=overlap	['削る', '街', '食べ']
+A010n_PN4c_00001-23	reltype=vague	['揚げ', '料理', 'たっぷり', '野菜', '豆', '使っ']
+A010n_PN4c_00001-23	reltype=vague	['使っ', 'スープ', '料理', '使っ']
+A010n_PN4c_00001-24	reltype=before	['こだわっ', '結果', '立ち返っ']
+A010n_PN4c_00001-27	reltype=after	['使い', 'と', '輝か']
+

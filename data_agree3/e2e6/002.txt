@@ -1,0 +1,8 @@
+A002n_PN1d_00001-3	reltype=before	['とまっ', '寄り添う']
+A002n_PN1d_00001-5	reltype=before	['とまっ', '並び']
+A002n_PN1d_00001-5	reltype=before	['並び', '移っ', 'しぐさ', '思わ']
+A002n_PN1d_00001-5	reltype=after	['思わ', 'しぐさ', '移っ']
+A002n_PN1d_00001-6	reltype=overlap	['当て', 'なっ']
+A002n_PN1d_00001-26	reltype=before	['オープン', 'し', '大阪', '者', 'し', '突破']
+A002n_PN1d_00001-33	reltype=before	['み', '社長', '決算', 'し', '予定']
+

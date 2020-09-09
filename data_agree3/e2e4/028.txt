@@ -1,0 +1,12 @@
+A028n_PN4c_00002-4	reltype=after	['縮小', 'する', 'こと', '打ち出さ']
+A028n_PN4c_00002-9	reltype=before	['適用', 'さ', '目', '下がる']
+A028n_PN4c_00002-11	reltype=before	['減り', 'なる']
+A028n_PN4c_00002-14	reltype=before	['借入れ', 'する', '返済']
+A028n_PN4c_00002-21	reltype=before	['違う', 'なる']
+A028n_PN4c_00002-25	reltype=after	['上昇', 'し', '続い', '大きく', '影響', '増え']
+A028n_PN4c_00002-26	reltype=before	['向け', '焦る', '物件', 'できる', '入居']
+A028n_PN4c_00002-32	reltype=before	['縮小', 'さ', '予定', 'なくなる']
+A028n_PN4c_00002-32	reltype=after	['なくなる', '予定', '打ち出さ', 'こと', 'さ', '延長']
+A028n_PN4c_00002-32	reltype=after	['縮小', 'する', 'こと', '打ち出さ']
+A028n_PN4c_00002-40	reltype=before	['応じ', '出る']
+

@@ -1,0 +1,10 @@
+A027n_PN3e_00002-3	reltype=overlap	['２', '年度', 'さ', '消費']
+A027n_PN3e_00002-4	reltype=before	['前', '％', '減っ']
+A027n_PN3e_00002-13	reltype=overlap	['今春', 'し', '人', '受け']
+A027n_PN3e_00002-13	reltype=overlap	['今春', 'し', '卒業']
+A027n_PN3e_00002-21	reltype=after	['十', '日', 'し', '委', '開い']
+A027n_PN3e_00002-21	reltype=after	['十', '日', 'し', '点', 'コンテスト', 'し', '合わせ']
+A027n_PN3e_00002-21	reltype=after	['十', '日', 'し', '点', 'コンテスト', 'し', '募集']
+A027n_PN3e_00002-21	reltype=overlap	['十', '日', 'し', '発表']
+A027n_PN3e_00002-22	reltype=overlap	['四', '七', '幸せ', '写真', '選ば']
+

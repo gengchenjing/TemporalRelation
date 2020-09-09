@@ -1,0 +1,14 @@
+A041n_PN3d_00003-3	['退い']	reltype=before	A041n_PN3d_00003-4	['診断', 'さ']	reltype=before
+A041n_PN3d_00003-20	['獲得', 'し']	reltype=after	A041n_PN3d_00003-21	['挙げ']	reltype=after
+A041n_PN3d_00003-21	['挙げ']	reltype=overlap	A041n_PN3d_00003-22	['目指す', '裕理', 'とも', '位']	reltype=overlap
+A041n_PN3d_00003-25	['越え', '雪辱']	reltype=before	A041n_PN3d_00003-26	['き']	reltype=before
+A041n_PN3d_00003-28	['敗れ']	reltype=before	A041n_PN3d_00003-29	['あっ']	reltype=before
+A041n_PN3d_00003-29	['あっ']	reltype=before	A041n_PN3d_00003-30	['狙っ']	reltype=before
+A041n_PN3d_00003-32	['回っ']	reltype=before	A041n_PN3d_00003-33	['実っ']	reltype=before
+A041n_PN3d_00003-33	['実っ']	reltype=after	A041n_PN3d_00003-34	['伸び', 'プレー']	reltype=after
+A041n_PN3d_00003-34	['伸び', 'プレー']	reltype=before	A041n_PN3d_00003-35	['あきらめ']	reltype=before
+A041n_PN3d_00003-41	['飛び出し']	reltype=before	A041n_PN3d_00003-42	['逃げ', 'きっ']	reltype=before
+A041n_PN3d_00003-45	['発揮', 'し']	reltype=vague	A041n_PN3d_00003-46	['いっ']	reltype=vague
+A041n_PN3d_00003-46	['いっ']	reltype=overlap	A041n_PN3d_00003-47	['いる']	reltype=overlap
+A041n_PN3d_00003-47	['いる']	reltype=overlap	A041n_PN3d_00003-48	['目指す']	reltype=overlap
+

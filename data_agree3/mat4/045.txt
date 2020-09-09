@@ -1,0 +1,8 @@
+A045n_PN5c_00003-8	['通じる']	reltype=vague	A045n_PN5c_00003-9	['計算', 'し']	reltype=vague
+A045n_PN5c_00003-13	['走っ']	reltype=overlap	A045n_PN5c_00003-14	['計算', 'し']	reltype=overlap
+A045n_PN5c_00003-16	['走っ', '距離', 'キロ・メートル']	reltype=overlap	A045n_PN5c_00003-17	['かかっ', 'こと']	reltype=overlap
+A045n_PN5c_00003-18	['かかっ', 'タイム', '０', 'なり']	reltype=before	A045n_PN5c_00003-19	['優勝', 'し', '目']	reltype=before
+A045n_PN5c_00003-19	['優勝', 'し', '目']	reltype=before	A045n_PN5c_00003-20	['達成', 'できる', '楽しみ']	reltype=before
+A045n_PN5c_00003-30	['始まり']	reltype=after	A045n_PN5c_00003-31	['取り組み']	reltype=after
+A045n_PN5c_00003-39	['分かっ']	reltype=after	A045n_PN5c_00003-40	['参加', 'し']	reltype=after
+

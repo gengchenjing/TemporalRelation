@@ -1,0 +1,12 @@
+A018n_PN1g_00002-4	reltype=before	['二十', '日', 'し', 'こと', 'する', '共同']
+A018n_PN1g_00002-4	reltype=overlap	['二十', '日', 'し', '合意']
+A018n_PN1g_00002-5	reltype=after	['二', 'ごろ', 'する', '設立', '交わし']
+A018n_PN1g_00002-5	reltype=overlap	['二', 'ごろ', 'する', '生産']
+A018n_PN1g_00002-5	reltype=overlap	['年間', '台', 'する', '生産']
+A018n_PN1g_00002-6	reltype=overlap	['〇', '年', 'さ', '強化']
+A018n_PN1g_00002-6	reltype=after	['〇', '年', 'さ', 'ため', 'し', '分担']
+A018n_PN1g_00002-7	reltype=overlap	['一', '年', 'し', '合弁']
+A018n_PN1g_00002-8	reltype=ob	['昨年', 'し', '交渉']
+A018n_PN1g_00002-19	reltype=after	['九', '末', 'さ', '予定']
+A018n_PN1g_00002-19	reltype=overlap	['九', '末', 'さ', '報告', 'する', '重視']
+

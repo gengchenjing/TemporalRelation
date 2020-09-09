@@ -1,0 +1,31 @@
+A046n_PN1b_00004-7	['い', 'し']	reltype=before	A046n_PN1b_00004-8	['立て直す']	reltype=before
+A046n_PN1b_00004-8	['立て直す']	reltype=after	A046n_PN1b_00004-9	['説く']	reltype=after
+A046n_PN1b_00004-14	['ある']	reltype=before	A046n_PN1b_00004-15	['なる']	reltype=before
+A046n_PN1b_00004-22	['抜かし']	reltype=before	A046n_PN1b_00004-23	['ある']	reltype=before
+A046n_PN1b_00004-27	['やる']	reltype=overlap	A046n_PN1b_00004-28	['行う']	reltype=overlap
+A046n_PN1b_00004-31	['持た', 'いけ']	reltype=after	A046n_PN1b_00004-32	['する']	reltype=after
+A046n_PN1b_00004-32	['する']	reltype=overlap	A046n_PN1b_00004-33	['する']	reltype=overlap
+A046n_PN1b_00004-33	['する']	reltype=before	A046n_PN1b_00004-34	['入れ', '会', '新設']	reltype=before
+A046n_PN1b_00004-38	['ある']	reltype=overlap	A046n_PN1b_00004-39	['はっきり', 'し', 'こと']	reltype=overlap
+A046n_PN1b_00004-39	['はっきり', 'し', 'こと']	reltype=before	A046n_PN1b_00004-40	['なる']	reltype=before
+A046n_PN1b_00004-41	['なる']	reltype=after	A046n_PN1b_00004-42	['社会', 'し']	reltype=after
+A046n_PN1b_00004-44	['ある', '債権', '中', '企業', 'コア']	reltype=overlap	A046n_PN1b_00004-45	['与える', 'こと', '必要']	reltype=overlap
+A046n_PN1b_00004-58	['浸透', 'し']	reltype=overlap	A046n_PN1b_00004-59	['ない']	reltype=overlap
+A046n_PN1b_00004-59	['ない']	reltype=before	A046n_PN1b_00004-60	['ある']	reltype=before
+A046n_PN1b_00004-64	['なる', '性', '強い']	reltype=after	A046n_PN1b_00004-65	['なっ', '事実']	reltype=after
+A046n_PN1b_00004-72	['移行', 'し']	reltype=before	A046n_PN1b_00004-73	['膨らん']	reltype=before
+A046n_PN1b_00004-73	['膨らん']	reltype=before	A046n_PN1b_00004-74	['する']	reltype=before
+A046n_PN1b_00004-75	['なっ']	reltype=overlap	A046n_PN1b_00004-76	['踏み込ま']	reltype=overlap
+A046n_PN1b_00004-82	['主張', 'し']	reltype=overlap	A046n_PN1b_00004-83	['反対', 'し']	reltype=overlap
+A046n_PN1b_00004-96	['使う', 'もの']	reltype=before	A046n_PN1b_00004-97	['深刻', 'し']	reltype=before
+A046n_PN1b_00004-101	['できる']	reltype=after	A046n_PN1b_00004-102	['振り返れ', '話']	reltype=after
+A046n_PN1b_00004-105	['できる', '会', '創設', '肝要']	reltype=after	A046n_PN1b_00004-106	['思う']	reltype=after
+A046n_PN1b_00004-109	['経', '当選']	reltype=before	A046n_PN1b_00004-110	['提出', 'し']	reltype=before
+A046n_PN1b_00004-110	['提出', 'し']	reltype=vague	A046n_PN1b_00004-111	['創る', '会', 'メンバー']	reltype=vague
+A046n_PN1b_00004-111	['創る', '会', 'メンバー']	reltype=vague	A046n_PN1b_00004-112	['写す']	reltype=vague
+A046n_PN1b_00004-114	['増え']	reltype=after	A046n_PN1b_00004-115	['親しま', '外相', '長男', '氏', '一人']	reltype=after
+A046n_PN1b_00004-115	['親しま', '外相', '長男', '氏', '一人']	reltype=before	A046n_PN1b_00004-116	['網羅', 'し', '本']	reltype=before
+A046n_PN1b_00004-116	['網羅', 'し', '本']	reltype=after	A046n_PN1b_00004-117	['組ん', '前著', 'デフレ', '社', '集', '本']	reltype=after
+A046n_PN1b_00004-117	['組ん', '前著', 'デフレ', '社', '集', '本']	reltype=before	A046n_PN1b_00004-118	['記す']	reltype=before
+A046n_PN1b_00004-118	['記す']	reltype=overlap	A046n_PN1b_00004-119	['目指す', 'らしい', '言葉']	reltype=overlap
+

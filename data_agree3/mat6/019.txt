@@ -1,0 +1,6 @@
+A019n_PN2b_00002-6	['述べ']	reltype=vague	A019n_PN2b_00002-7	['会う', '４']	reltype=vague
+A019n_PN2b_00002-10	['手掛け']	reltype=before	A019n_PN2b_00002-11	['知ら']	reltype=before
+A019n_PN2b_00002-12	['考え', '作品']	reltype=after	A019n_PN2b_00002-13	['描か']	reltype=after
+A019n_PN2b_00002-20	['見え']	reltype=before	A019n_PN2b_00002-21	['思う']	reltype=before
+A019n_PN2b_00002-37	['分から', 'こと', '多い']	reltype=overlap	A019n_PN2b_00002-38	['いう']	reltype=overlap
+

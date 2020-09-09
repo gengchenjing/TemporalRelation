@@ -1,0 +1,12 @@
+A015n_PN1d_00002-2	reltype=after	['発表', 'し', '高', 'なり']
+A015n_PN1d_00002-7	reltype=before	['語り', '示し', '大綱', '見通し', 'さ', '公表']
+A015n_PN1d_00002-7	reltype=overlap	['公表', 'さ', '見通し', '大綱', '示し', '考え', '打ち出す', '建設', 'さ', '凍結']
+A015n_PN1d_00002-7	reltype=overlap	['凍結', 'さ', '建設', '打ち出す']
+A015n_PN1d_00002-7	reltype=after	['打ち出す', '考え', '示し']
+A015n_PN1d_00002-13	reltype=after	['抑え', 'いう']
+A015n_PN1d_00002-15	reltype=after	['する', 'し', '発表']
+A015n_PN1d_00002-19	reltype=after	['発表', 'し', '値', 'し', '増加']
+A015n_PN1d_00002-24	reltype=overlap	['設置', 'さ', '」', 'する', '販売']
+A015n_PN1d_00002-24	reltype=after	['販売', 'する', 'し', '発表']
+A015n_PN1d_00002-27	reltype=after	['減少', 'する', '予測', 'し', '発表']
+

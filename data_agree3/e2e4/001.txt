@@ -1,0 +1,10 @@
+A001n_PN1c_00001-15	reltype=before	['取り上げ', 'さ', '討論']
+A001n_PN1c_00001-23	reltype=after	['話す', '思っ']
+A001n_PN1c_00001-24	reltype=after	['行く', 'よう', '促し']
+A001n_PN1c_00001-25	reltype=before	['デビュー', 'し', 'する', '活躍']
+A001n_PN1c_00001-26	reltype=before	['アドバイス', 'し', 'こと', '覚え']
+A001n_PN1c_00001-33	reltype=before	['報告', 'し', '役立てる']
+A001n_PN1c_00001-33	reltype=after	['役立てる', '会', 'さ', '開催']
+A001n_PN1c_00001-38	reltype=overlap	['乗り', '集め']
+A001n_PN1c_00001-38	reltype=before	['集め', '届ける']
+

@@ -1,0 +1,6 @@
+A004n_PN1f_00001-3	reltype=before	['する', 'アドバイス', 'ストレッチ', '体験']
+A004n_PN1f_00001-9	reltype=before	['話す']
+A004n_PN1f_00001-23	reltype=overlap	['応募', 'し', '中', '人', 'プレゼント']
+A004n_PN1f_00001-33	reltype=after	['記念', 'し', 'プレゼント']
+A004n_PN1f_00001-38	reltype=after	['始め']
+

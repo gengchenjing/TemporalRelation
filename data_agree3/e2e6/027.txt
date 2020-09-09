@@ -1,0 +1,10 @@
+A027n_PN3e_00002-11	reltype=before	['し', '説い', '心構え', 'なる']
+A027n_PN3e_00002-11	reltype=after	['なる', '心構え', '説い']
+A027n_PN3e_00002-13	reltype=after	['受け', '人', 'し', '卒業']
+A027n_PN3e_00002-21	reltype=overlap	['合わせ', 'し', '募集']
+A027n_PN3e_00002-21	reltype=before	['募集', 'し', 'コンテスト', '点', 'し', '発表']
+A027n_PN3e_00002-24	reltype=overlap	['たたずむ', '女性', '姿', 'とらえ']
+A027n_PN3e_00002-24	reltype=overlap	['とらえ', '包ま']
+A027n_PN3e_00002-25	reltype=before	['目立っ', '上がっ', '変わり']
+A027n_PN3e_00002-28	reltype=after	['役立つ', '情報', 'し', '満載']
+

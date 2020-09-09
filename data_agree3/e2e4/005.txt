@@ -1,0 +1,5 @@
+A005n_PN2e_00001-7	reltype=before	['持ち込ん', 'タイヤ', '引き渡す']
+A005n_PN2e_00001-11	reltype=before	['指摘', 'さ', 'さ', 'タイヤ', '失っ']
+A005n_PN2e_00001-15	reltype=before	['まとめ', '書', '分かっ']
+A005n_PN2e_00001-24	reltype=before	['なっ', 'み']
+

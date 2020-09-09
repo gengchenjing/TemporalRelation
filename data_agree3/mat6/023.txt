@@ -1,0 +1,9 @@
+A023n_PN2g_00002-3	['割り込ん', 'なる']	reltype=after	A023n_PN2g_00002-4	['響い']	reltype=after
+A023n_PN2g_00002-4	['響い']	reltype=overlap	A023n_PN2g_00002-5	['停止', 'し', '電力', '率', 'ゼロ']	reltype=overlap
+A023n_PN2g_00002-15	['続く', '見通し']	reltype=vague	A023n_PN2g_00002-16	['かかり', 'そう']	reltype=vague
+A023n_PN2g_00002-16	['かかり', 'そう']	reltype=after	A023n_PN2g_00002-17	['述べ']	reltype=after
+A023n_PN2g_00002-17	['述べ']	reltype=after	A023n_PN2g_00002-18	['なっ']	reltype=after
+A023n_PN2g_00002-18	['なっ']	reltype=overlap	A023n_PN2g_00002-19	['なっ']	reltype=overlap
+A023n_PN2g_00002-19	['なっ']	reltype=before	A023n_PN2g_00002-20	['浮かび上がっ']	reltype=before
+A023n_PN2g_00002-20	['浮かび上がっ']	reltype=after	A023n_PN2g_00002-21	['計上', 'し', 'ほか', '発生']	reltype=after
+

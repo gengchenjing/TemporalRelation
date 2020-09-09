@@ -1,0 +1,10 @@
+A023n_PN2g_00002-4	reltype=before	['低下', 'し', 'こと', '響い']
+A023n_PN2g_00002-11	reltype=vague	['示す', '損益', '赤字', 'なっ']
+A023n_PN2g_00002-13	reltype=vague	['示す', '金', 'し', '払底']
+A023n_PN2g_00002-13	reltype=before	['払底', 'し', 'し', '発生']
+A023n_PN2g_00002-14	reltype=before	['始め', '事業', '負担', '費', 'し', '圧迫']
+A023n_PN2g_00002-14	reltype=before	['発生', 'し', 'こと', '響い']
+A023n_PN2g_00002-19	reltype=overlap	['とどまっ', '一方', 'し', '計上']
+A023n_PN2g_00002-20	reltype=overlap	['なっ', 'こと', '浮かび上がっ']
+A023n_PN2g_00002-22	reltype=before	['計上', 'し', '切れ', '埋め']
+

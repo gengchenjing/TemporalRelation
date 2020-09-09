@@ -1,0 +1,10 @@
+A044n_PN5b_00003-10	['見直し']	reltype=before	A044n_PN5b_00003-11	['減っ']	reltype=before
+A044n_PN5b_00003-11	['減っ']	reltype=before	A044n_PN5b_00003-12	['説明', 'する']	reltype=before
+A044n_PN5b_00003-12	['説明', 'する']	reltype=vague	A044n_PN5b_00003-13	['批判', 'する']	reltype=vague
+A044n_PN5b_00003-15	['ある', '以内']	reltype=overlap	A044n_PN5b_00003-16	['いう']	reltype=overlap
+A044n_PN5b_00003-16	['いう']	reltype=overlap	A044n_PN5b_00003-17	['徹底', 'さ', '機関']	reltype=overlap
+A044n_PN5b_00003-21	['評価', 'する']	reltype=after	A044n_PN5b_00003-22	['選ぶ']	reltype=after
+A044n_PN5b_00003-28	['かける', 'わけ']	reltype=before	A044n_PN5b_00003-29	['勝つ', 'ため']	reltype=before
+A044n_PN5b_00003-29	['勝つ', 'ため']	reltype=after	A044n_PN5b_00003-30	['き']	reltype=after
+A044n_PN5b_00003-37	['担当', 'し']	reltype=before	A044n_PN5b_00003-38	['お', 'ください']	reltype=before
+

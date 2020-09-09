@@ -1,0 +1,8 @@
+A019n_PN2b_00002-3	reltype=overlap	['２', '日', 'し', '会見', '後', 'あっ']
+A019n_PN2b_00002-3	reltype=overlap	['２', '日', 'し']
+A019n_PN2b_00002-3	reltype=after	['２', '日', 'デー', 'まとめる', '意向', 'し', '会見', '後', 'あっ']
+A019n_PN2b_00002-3	reltype=after	['２', '日', 'デー', 'まとめる', '意向', 'し']
+A019n_PN2b_00002-5	reltype=before	['先月', '日', '合意', 'さ', 'する', '検討']
+A019n_PN2b_00002-31	reltype=overlap	['８', '歳', '亡くなっ']
+A019n_PN2b_00002-31	reltype=overlap	['１', '１日', '亡くなっ']
+

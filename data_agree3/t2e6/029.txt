@@ -1,0 +1,12 @@
+A029n_PN4g_00002-9	reltype=overlap	['三', '二', '語る']
+A029n_PN4g_00002-19	reltype=ob	['昨年', '月', '回り']
+A029n_PN4g_00002-19	reltype=overlap	['二', '間', '回り']
+A029n_PN4g_00002-19	reltype=overlap	['二', '間', '回り', '驚い', '話', 'ミュージシャン', '無名', '出会っ']
+A029n_PN4g_00002-19	reltype=overlap	['二', '間', '回り', '驚い']
+A029n_PN4g_00002-31	reltype=overlap	['年内', 'する', '開設']
+A029n_PN4g_00002-33	reltype=before	['九', '予定', 'アルバム', '収録', '歌う']
+A029n_PN4g_00002-33	reltype=overlap	['十', '月', '歌う']
+A029n_PN4g_00002-51	reltype=overlap	['２', '展', '開か']
+A029n_PN4g_00002-54	reltype=overlap	['一', '年', 'し', '込め']
+A029n_PN4g_00002-54	reltype=overlap	['一', '年', 'し', '発足']
+

@@ -1,0 +1,23 @@
+A007n_PN3g_00001-3	['実施', 'さ']	reltype=after	A007n_PN3g_00001-4	['し']	reltype=after
+A007n_PN3g_00001-5	['迎え']	reltype=before	A007n_PN3g_00001-6	['行う', '制度', '導入', 'つ']	reltype=before
+A007n_PN3g_00001-6	['行う', '制度', '導入', 'つ']	reltype=after	A007n_PN3g_00001-7	['期待', 'する', 'こと', '何', '点', '意見', '考える', '点', 'し']	reltype=after
+A007n_PN3g_00001-18	['足り', '調和', '必要']	reltype=overlap	A007n_PN3g_00001-19	['控える']	reltype=overlap
+A007n_PN3g_00001-21	['判断', 'し', '月', '意見']	reltype=before	A007n_PN3g_00001-22	['ない', '意見']	reltype=before
+A007n_PN3g_00001-30	['判断', 'し']	reltype=overlap	A007n_PN3g_00001-31	['努め']	reltype=overlap
+A007n_PN3g_00001-43	['努める']	reltype=overlap	A007n_PN3g_00001-44	['得', 'こと', '前提']	reltype=overlap
+A007n_PN3g_00001-44	['得', 'こと', '前提']	reltype=vague	A007n_PN3g_00001-45	['する', 'こと', '必要']	reltype=vague
+A007n_PN3g_00001-45	['する', 'こと', '必要']	reltype=after	A007n_PN3g_00001-46	['差し控える']	reltype=after
+A007n_PN3g_00001-56	['尽くす']	reltype=overlap	A007n_PN3g_00001-57	['期待', 'さ', '点']	reltype=overlap
+A007n_PN3g_00001-58	['ある']	reltype=overlap	A007n_PN3g_00001-59	['ある']	reltype=overlap
+A007n_PN3g_00001-70	['観念', 'する']	reltype=overlap	A007n_PN3g_00001-71	['考え']	reltype=overlap
+A007n_PN3g_00001-76	['でき', '意見']	reltype=before	A007n_PN3g_00001-77	['判断', 'し', '月', '長']	reltype=before
+A007n_PN3g_00001-97	['かける']	reltype=after	A007n_PN3g_00001-98	['理解', 'し', 'こと', '必要']	reltype=after
+A007n_PN3g_00001-98	['理解', 'し', 'こと', '必要']	reltype=vague	A007n_PN3g_00001-99	['得']	reltype=vague
+A007n_PN3g_00001-118	['当たっ']	reltype=vague	A007n_PN3g_00001-119	['棄却', 'する', '同', '長']	reltype=vague
+A007n_PN3g_00001-126	['努める']	reltype=overlap	A007n_PN3g_00001-127	['整える', 'こと', '重要']	reltype=overlap
+A007n_PN3g_00001-127	['整える', 'こと', '重要']	reltype=before	A007n_PN3g_00001-128	['なっ', '人', '雇い主', 'ら', '周辺', '理解', '不可欠']	reltype=before
+A007n_PN3g_00001-128	['なっ', '人', '雇い主', 'ら', '周辺', '理解', '不可欠']	reltype=after	A007n_PN3g_00001-129	['期待', 'する']	reltype=after
+A007n_PN3g_00001-135	['分かっ']	reltype=after	A007n_PN3g_00001-136	['上昇', 'し', '％', '軒']	reltype=after
+A007n_PN3g_00001-139	['み']	reltype=after	A007n_PN3g_00001-140	['超え']	reltype=after
+A007n_PN3g_00001-140	['超え']	reltype=overlap	A007n_PN3g_00001-141	['とどまっ']	reltype=overlap
+

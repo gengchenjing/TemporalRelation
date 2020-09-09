@@ -1,0 +1,11 @@
+A021n_PN2e_00002-10	reltype=overlap	['所属', 'する', '派', '出']
+A021n_PN2e_00002-12	reltype=overlap	['言い切っ', 'みせ']
+A021n_PN2e_00002-14	reltype=overlap	['仰ぐ', '広務', '擁立', 'し', '奔走']
+A021n_PN2e_00002-15	reltype=overlap	['横断', 'し', '見']
+A021n_PN2e_00002-15	reltype=before	['見', '自信', '吐か', '言葉', 'いとわ']
+A021n_PN2e_00002-16	reltype=overlap	['務め', '支部', '団体', 'し', '資金']
+A021n_PN2e_00002-20	reltype=after	['みる', 'い', '議員', '受け']
+A021n_PN2e_00002-20	reltype=overlap	['受け', '議員', 'い']
+A021n_PN2e_00002-25	reltype=after	['開い', '券', 'し', '購入']
+A021n_PN2e_00002-26	reltype=before	['あっ', 'みる']
+

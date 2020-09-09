@@ -1,0 +1,10 @@
+A006n_PN3b_00001-6	['始める']	reltype=before	A006n_PN3b_00001-7	['鍛える']	reltype=before
+A006n_PN3b_00001-16	['いう']	reltype=after	A006n_PN3b_00001-17	['選ば']	reltype=after
+A006n_PN3b_00001-17	['選ば']	reltype=before	A006n_PN3b_00001-18	['利用', 'する']	reltype=before
+A006n_PN3b_00001-18	['利用', 'する']	reltype=after	A006n_PN3b_00001-19	['始め']	reltype=after
+A006n_PN3b_00001-28	['告げる', '涙']	reltype=before	A006n_PN3b_00001-29	['いう']	reltype=before
+A006n_PN3b_00001-37	['認め']	reltype=after	A006n_PN3b_00001-38	['し', '犯行']	reltype=after
+A006n_PN3b_00001-38	['し', '犯行']	reltype=before	A006n_PN3b_00001-39	['し']	reltype=before
+A006n_PN3b_00001-40	['断罪', 'し']	reltype=before	A006n_PN3b_00001-41	['上告', 'する', '方針']	reltype=before
+A006n_PN3b_00001-41	['上告', 'する', '方針']	reltype=after	A006n_PN3b_00001-42	['あげ']	reltype=after
+

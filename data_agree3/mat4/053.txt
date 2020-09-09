@@ -1,0 +1,19 @@
+A053n_PN2g_00004-3	['まとめ']	reltype=before	A053n_PN2g_00004-4	['評価', 'する', 'システム', '必要']	reltype=before
+A053n_PN2g_00004-4	['評価', 'する', 'システム', '必要']	reltype=after	A053n_PN2g_00004-5	['ない']	reltype=after
+A053n_PN2g_00004-11	['避ける']	reltype=after	A053n_PN2g_00004-12	['提案', 'し']	reltype=after
+A053n_PN2g_00004-12	['提案', 'し']	reltype=overlap	A053n_PN2g_00004-13	['求め']	reltype=overlap
+A053n_PN2g_00004-13	['求め']	reltype=before	A053n_PN2g_00004-14	['見失わ', '恐れ', '強い']	reltype=before
+A053n_PN2g_00004-14	['見失わ', '恐れ', '強い']	reltype=after	A053n_PN2g_00004-15	['ある']	reltype=after
+A053n_PN2g_00004-16	['尊重', 'し']	reltype=overlap	A053n_PN2g_00004-17	['避け']	reltype=overlap
+A053n_PN2g_00004-17	['避け']	reltype=overlap	A053n_PN2g_00004-18	['気付く']	reltype=overlap
+A053n_PN2g_00004-18	['気付く']	reltype=overlap	A053n_PN2g_00004-19	['考える']	reltype=overlap
+A053n_PN2g_00004-19	['考える']	reltype=overlap	A053n_PN2g_00004-20	['持ち', 'もの']	reltype=overlap
+A053n_PN2g_00004-22	['語ろう']	reltype=after	A053n_PN2g_00004-23	['見る', '大すき']	reltype=after
+A053n_PN2g_00004-27	['受賞', 'し', '作文', '一節']	reltype=after	A053n_PN2g_00004-28	['あっ']	reltype=after
+A053n_PN2g_00004-28	['あっ']	reltype=before	A053n_PN2g_00004-29	['なっ']	reltype=before
+A053n_PN2g_00004-29	['なっ']	reltype=before	A053n_PN2g_00004-30	['はせる', 'チャンス']	reltype=before
+A053n_PN2g_00004-30	['はせる', 'チャンス']	reltype=overlap	A053n_PN2g_00004-31	['見える', '季節']	reltype=overlap
+A053n_PN2g_00004-31	['見える', '季節']	reltype=overlap	A053n_PN2g_00004-32	['行わ']	reltype=overlap
+A053n_PN2g_00004-38	['話し']	reltype=before	A053n_PN2g_00004-39	['確認', 'し']	reltype=before
+A053n_PN2g_00004-39	['確認', 'し']	reltype=overlap	A053n_PN2g_00004-40	['見る', '星', '数', '個']	reltype=overlap
+

@@ -1,0 +1,6 @@
+A003n_PN1e_00001-3	reltype=before	['演じ', 'たち', '楽しむ']
+A003n_PN1e_00001-22	reltype=before	['まとめ', 'ランキング', 'し', '発表']
+A003n_PN1e_00001-23	reltype=overlap	['減少', 'さ', '支え']
+A003n_PN1e_00001-23	reltype=before	['支え', '返り咲い']
+A003n_PN1e_00001-25	reltype=before	['なり', 'し', '大幅']
+

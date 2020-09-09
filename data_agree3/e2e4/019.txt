@@ -1,0 +1,7 @@
+A019n_PN2b_00002-4	reltype=overlap	['議論', 'し', '述べ']
+A019n_PN2b_00002-6	reltype=after	['実現', 'よう', 'し', '努力']
+A019n_PN2b_00002-11	reltype=before	['伝え', '屛風', '知ら']
+A019n_PN2b_00002-32	reltype=overlap	['書い', '先生', '頼れる']
+A019n_PN2b_00002-38	reltype=after	['あげる', '持ちかけ']
+A019n_PN2b_00002-38	reltype=before	['持ちかけ', 'いう']
+

@@ -1,0 +1,10 @@
+A051n_PN2d_00004-20	reltype=overlap	['一', '年', '作り']
+A051n_PN2d_00004-36	reltype=overlap	['今年', '決まっ', 'かけ']
+A051n_PN2d_00004-36	reltype=overlap	['夏', 'かけ']
+A051n_PN2d_00004-36	reltype=after	['夏', 'かけ', '決まっ']
+A051n_PN2d_00004-36	reltype=overlap	['秋', 'かけ']
+A051n_PN2d_00004-36	reltype=after	['秋', 'かけ', '決まっ']
+A051n_PN2d_00004-39	reltype=overlap	['８', '年', '発表', '部門', '開か']
+A051n_PN2d_00004-39	reltype=overlap	['８', '年', '発表', '作品', '使っ']
+A051n_PN2d_00004-54	reltype=overlap	['最近', 'さ', 'ある', '効果', 'やわらげる']
+

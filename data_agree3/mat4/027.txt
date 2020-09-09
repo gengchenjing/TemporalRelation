@@ -1,0 +1,12 @@
+A027n_PN3e_00002-4	['減っ']	reltype=overlap	A027n_PN3e_00002-5	['健闘', 'し', '酒', '類']	reltype=overlap
+A027n_PN3e_00002-5	['健闘', 'し', '酒', '類']	reltype=overlap	A027n_PN3e_00002-6	['上っ']	reltype=overlap
+A027n_PN3e_00002-6	['上っ']	reltype=before	A027n_PN3e_00002-7	['うかがえる']	reltype=before
+A027n_PN3e_00002-7	['うかがえる']	reltype=vague	A027n_PN3e_00002-8	['外さ']	reltype=vague
+A027n_PN3e_00002-14	['作成', 'し', '」', '書', '講義']	reltype=before	A027n_PN3e_00002-15	['込め', '方']	reltype=before
+A027n_PN3e_00002-16	['説明', 'し']	reltype=overlap	A027n_PN3e_00002-17	['送っ']	reltype=overlap
+A027n_PN3e_00002-17	['送っ']	reltype=vague	A027n_PN3e_00002-18	['写す']	reltype=vague
+A027n_PN3e_00002-21	['発表', 'し']	reltype=after	A027n_PN3e_00002-22	['選ば']	reltype=after
+A027n_PN3e_00002-24	['包ま', '情景', '的']	reltype=before	A027n_PN3e_00002-25	['評価', 'し']	reltype=before
+A027n_PN3e_00002-28	['始め']	reltype=after	A027n_PN3e_00002-29	['作っ']	reltype=after
+A027n_PN3e_00002-30	['し']	reltype=vague	A027n_PN3e_00002-31	['掲載', 'さ', '内容']	reltype=vague
+

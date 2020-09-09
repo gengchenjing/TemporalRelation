@@ -1,0 +1,21 @@
+A051n_PN2d_00004-3	['終わら']	reltype=overlap	A051n_PN2d_00004-4	['続く', '変化']	reltype=overlap
+A051n_PN2d_00004-4	['続く', '変化']	reltype=overlap	A051n_PN2d_00004-5	['ない']	reltype=overlap
+A051n_PN2d_00004-10	['スタート', 'し']	reltype=before	A051n_PN2d_00004-11	['設置', 'する', '計画']	reltype=before
+A051n_PN2d_00004-13	['完成', 'さ', '予定']	reltype=after	A051n_PN2d_00004-14	['考え']	reltype=after
+A051n_PN2d_00004-14	['考え']	reltype=after	A051n_PN2d_00004-15	['考える']	reltype=after
+A051n_PN2d_00004-17	['創作', 'する']	reltype=before	A051n_PN2d_00004-18	['置か', '作品', '必要']	reltype=before
+A051n_PN2d_00004-21	['設け']	reltype=before	A051n_PN2d_00004-22	['始まり']	reltype=before
+A051n_PN2d_00004-23	['考え']	reltype=overlap	A051n_PN2d_00004-24	['使う', 'もの']	reltype=overlap
+A051n_PN2d_00004-27	['表現', 'し']	reltype=overlap	A051n_PN2d_00004-28	['使う', '数字', '９']	reltype=overlap
+A051n_PN2d_00004-39	['使っ', '作品', '発表']	reltype=before	A051n_PN2d_00004-40	['受け']	reltype=before
+A051n_PN2d_00004-45	['誘う', '体験']	reltype=after	A051n_PN2d_00004-46	['出合っ']	reltype=after
+A051n_PN2d_00004-46	['出合っ']	reltype=overlap	A051n_PN2d_00004-47	['すれ違える', '程度', 'トンネル']	reltype=overlap
+A051n_PN2d_00004-47	['すれ違える', '程度', 'トンネル']	reltype=overlap	A051n_PN2d_00004-48	['通り抜ける', '作品']	reltype=overlap
+A051n_PN2d_00004-48	['通り抜ける', '作品']	reltype=overlap	A051n_PN2d_00004-49	['浴び']	reltype=overlap
+A051n_PN2d_00004-49	['浴び']	reltype=overlap	A051n_PN2d_00004-50	['気づい']	reltype=overlap
+A051n_PN2d_00004-52	['ない']	reltype=before	A051n_PN2d_00004-53	['はまっ']	reltype=before
+A051n_PN2d_00004-53	['はまっ']	reltype=before	A051n_PN2d_00004-54	['注目', 'さ']	reltype=before
+A051n_PN2d_00004-56	['配置', 'し']	reltype=before	A051n_PN2d_00004-57	['目指そう']	reltype=before
+A051n_PN2d_00004-57	['目指そう']	reltype=before	A051n_PN2d_00004-58	['使う']	reltype=before
+A051n_PN2d_00004-58	['使う']	reltype=before	A051n_PN2d_00004-59	['鑑賞', 'できる']	reltype=before
+

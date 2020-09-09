@@ -1,0 +1,3 @@
+A005n_PN2e_00001-5	['放置', 'さ', 'タイヤ', '一掃', '目的']	reltype=before	A005n_PN2e_00001-6	['取り組む', '室', 'いう']	reltype=before
+A005n_PN2e_00001-10	['補助', 'する']	reltype=after	A005n_PN2e_00001-11	['放置', 'さ']	reltype=after
+

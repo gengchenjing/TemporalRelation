@@ -1,0 +1,11 @@
+A017n_PN1f_00002-3	['き']	reltype=before	A017n_PN1f_00002-4	['運ば']	reltype=before
+A017n_PN1f_00002-6	['立っ']	reltype=before	A017n_PN1f_00002-7	['刺し']	reltype=before
+A017n_PN1f_00002-7	['刺し']	reltype=before	A017n_PN1f_00002-8	['調べ']	reltype=before
+A017n_PN1f_00002-11	['負っ']	reltype=before	A017n_PN1f_00002-12	['追っ']	reltype=before
+A017n_PN1f_00002-14	['着']	reltype=after	A017n_PN1f_00002-15	['殺し', '自首']	reltype=after
+A017n_PN1f_00002-17	['逮捕', 'し']	reltype=before	A017n_PN1f_00002-18	['急い']	reltype=before
+A017n_PN1f_00002-18	['急い']	reltype=after	A017n_PN1f_00002-19	['捨て', '疑い']	reltype=after
+A017n_PN1f_00002-19	['捨て', '疑い']	reltype=before	A017n_PN1f_00002-20	['き']	reltype=before
+A017n_PN1f_00002-21	['追及', 'し']	reltype=after	A017n_PN1f_00002-22	['出さ']	reltype=after
+A017n_PN1f_00002-22	['出さ']	reltype=after	A017n_PN1f_00002-23	['離婚', 'し']	reltype=after
+

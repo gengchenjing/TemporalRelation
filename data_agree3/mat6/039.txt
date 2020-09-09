@@ -1,0 +1,31 @@
+A039n_PN3a_00003-3	['変わり']	reltype=after	A039n_PN3a_00003-4	['足し', '払い']	reltype=after
+A039n_PN3a_00003-4	['足し', '払い']	reltype=before	A039n_PN3a_00003-5	['占める']	reltype=before
+A039n_PN3a_00003-5	['占める']	reltype=vague	A039n_PN3a_00003-6	['あり']	reltype=vague
+A039n_PN3a_00003-13	['記載', 'さ', '的']	reltype=before	A039n_PN3a_00003-14	['表記', 'さ']	reltype=before
+A039n_PN3a_00003-17	['設け']	reltype=before	A039n_PN3a_00003-18	['導入', 'さ']	reltype=before
+A039n_PN3a_00003-21	['なっ']	reltype=overlap	A039n_PN3a_00003-22	['加わり', '円']	reltype=overlap
+A039n_PN3a_00003-22	['加わり', '円']	reltype=before	A039n_PN3a_00003-23	['払う', '所得']	reltype=before
+A039n_PN3a_00003-24	['違う']	reltype=after	A039n_PN3a_00003-25	['かけ']	reltype=after
+A039n_PN3a_00003-25	['かけ']	reltype=overlap	A039n_PN3a_00003-26	['なっ']	reltype=overlap
+A039n_PN3a_00003-29	['なる']	reltype=before	A039n_PN3a_00003-30	['出']	reltype=before
+A039n_PN3a_00003-32	['入院', 'し', '場合']	reltype=before	A039n_PN3a_00003-33	['なる', '形', '設定']	reltype=before
+A039n_PN3a_00003-42	['開く', '調べ']	reltype=before	A039n_PN3a_00003-43	['なる']	reltype=before
+A039n_PN3a_00003-43	['なる']	reltype=after	A039n_PN3a_00003-44	['言う']	reltype=after
+A039n_PN3a_00003-45	['延びる']	reltype=overlap	A039n_PN3a_00003-46	['あり', '長く', 'がち']	reltype=overlap
+A039n_PN3a_00003-48	['なかっ']	reltype=before	A039n_PN3a_00003-49	['いう']	reltype=before
+A039n_PN3a_00003-49	['いう']	reltype=before	A039n_PN3a_00003-50	['終われ', '退院']	reltype=before
+A039n_PN3a_00003-50	['終われ', '退院']	reltype=after	A039n_PN3a_00003-51	['想定', 'さ']	reltype=after
+A039n_PN3a_00003-51	['想定', 'さ']	reltype=before	A039n_PN3a_00003-52	['なり']	reltype=before
+A039n_PN3a_00003-52	['なり']	reltype=before	A039n_PN3a_00003-53	['つながる']	reltype=before
+A039n_PN3a_00003-53	['つながる']	reltype=after	A039n_PN3a_00003-54	['示さ']	reltype=after
+A039n_PN3a_00003-54	['示さ']	reltype=before	A039n_PN3a_00003-55	['いう']	reltype=before
+A039n_PN3a_00003-55	['いう']	reltype=before	A039n_PN3a_00003-56	['言え']	reltype=before
+A039n_PN3a_00003-59	['評価', 'する', '必要']	reltype=after	A039n_PN3a_00003-60	['見直す']	reltype=after
+A039n_PN3a_00003-64	['なっ']	reltype=before	A039n_PN3a_00003-65	['薄れる']	reltype=before
+A039n_PN3a_00003-65	['薄れる']	reltype=after	A039n_PN3a_00003-66	['話す']	reltype=after
+A039n_PN3a_00003-66	['話す']	reltype=before	A039n_PN3a_00003-67	['言及', 'せ']	reltype=before
+A039n_PN3a_00003-67	['言及', 'せ']	reltype=after	A039n_PN3a_00003-68	['指摘', 'し']	reltype=after
+A039n_PN3a_00003-72	['予定', 'し', 'カ所']	reltype=before	A039n_PN3a_00003-73	['なる']	reltype=before
+A039n_PN3a_00003-73	['なる']	reltype=after	A039n_PN3a_00003-74	['実施', 'さ']	reltype=after
+A039n_PN3a_00003-74	['実施', 'さ']	reltype=before	A039n_PN3a_00003-75	['ある']	reltype=before
+

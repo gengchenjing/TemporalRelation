@@ -1,0 +1,9 @@
+A042n_PN4g_00003-22	reltype=after	['五', '二', 'し', '読み']
+A042n_PN4g_00003-22	reltype=after	['五', '二', 'し', '相談']
+A042n_PN4g_00003-32	reltype=before	['当時', '振り返る']
+A042n_PN4g_00003-54	reltype=vague	['十', '分', '所', '暮らし']
+A042n_PN4g_00003-55	reltype=after	['現在', '落ち着い', '比べ', '時期', '考え', 'すれ', '生き']
+A042n_PN4g_00003-55	reltype=after	['現在', '落ち着い', '比べ', '時期', '考え']
+A042n_PN4g_00003-55	reltype=overlap	['現在', '落ち着い']
+A042n_PN4g_00003-63	reltype=after	['９', '年', '教授', '経']
+

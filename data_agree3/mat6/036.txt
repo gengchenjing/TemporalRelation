@@ -1,0 +1,15 @@
+A036n_PN2b_00003-4	['発生', 'し', 'テロ', '人', 'うち', '１人', '人', '者']	reltype=before	A036n_PN2b_00003-5	['し']	reltype=before
+A036n_PN2b_00003-7	['なっ', 'テルアビブ', '通り']	reltype=before	A036n_PN2b_00003-8	['止める']	reltype=before
+A036n_PN2b_00003-8	['止める']	reltype=after	A036n_PN2b_00003-9	['添え']	reltype=after
+A036n_PN2b_00003-9	['添え']	reltype=after	A036n_PN2b_00003-10	['飲ん']	reltype=after
+A036n_PN2b_00003-10	['飲ん']	reltype=before	A036n_PN2b_00003-11	['分から']	reltype=before
+A036n_PN2b_00003-13	['食い込ん']	reltype=before	A036n_PN2b_00003-14	['倒れ']	reltype=before
+A036n_PN2b_00003-14	['倒れ']	reltype=after	A036n_PN2b_00003-15	['受け']	reltype=after
+A036n_PN2b_00003-15	['受け']	reltype=after	A036n_PN2b_00003-16	['し']	reltype=after
+A036n_PN2b_00003-20	['推計', 'さ']	reltype=overlap	A036n_PN2b_00003-21	['ある']	reltype=overlap
+A036n_PN2b_00003-21	['ある']	reltype=overlap	A036n_PN2b_00003-22	['来', '年', '者', '多い']	reltype=overlap
+A036n_PN2b_00003-23	['増し', '格好']	reltype=before	A036n_PN2b_00003-24	['帰る', 'つもり']	reltype=before
+A036n_PN2b_00003-27	['主張', 'する']	reltype=after	A036n_PN2b_00003-28	['集め']	reltype=after
+A036n_PN2b_00003-29	['目指し', '中']	reltype=overlap	A036n_PN2b_00003-30	['なら']	reltype=overlap
+A036n_PN2b_00003-31	['つぶやい']	reltype=after	A036n_PN2b_00003-32	['書か', '文', 'テルアビブ']	reltype=after
+

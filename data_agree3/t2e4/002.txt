@@ -1,0 +1,12 @@
+A002n_PN1d_00001-26	reltype=overlap	['昨年', '月', 'し', 'オープン']
+A002n_PN1d_00001-26	reltype=before	['昨年', '月', 'し', '大阪', '者', 'し', '突破']
+A002n_PN1d_00001-26	reltype=after	['二十', '日', 'し', '者', '大阪', 'し', 'オープン']
+A002n_PN1d_00001-26	reltype=overlap	['二十', '日', 'し', '突破']
+A002n_PN1d_00001-27	reltype=overlap	['一', '年間', '率', '上回り']
+A002n_PN1d_00001-27	reltype=before	['一', '年間', '率', '上回り', '確実', 'し', 'し']
+A002n_PN1d_00001-27	reltype=overlap	['初', '決算', '確実', '上回り']
+A002n_PN1d_00001-27	reltype=after	['二', '目', 'し', '確実', '上回り']
+A002n_PN1d_00001-30	reltype=overlap	['今年', '末', '率', '％', '上回っ']
+A002n_PN1d_00001-33	reltype=vague	['初', '決算', 'し', '予定']
+A002n_PN1d_00001-33	reltype=before	['初', '決算', '社長', 'いう']
+

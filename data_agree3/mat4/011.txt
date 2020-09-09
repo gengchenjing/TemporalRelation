@@ -1,0 +1,11 @@
+A011n_PN4f_00001-6	['奪っ', '逃走']	reltype=before	A011n_PN4f_00001-7	['一', 'し']	reltype=before
+A011n_PN4f_00001-7	['一', 'し']	reltype=before	A011n_PN4f_00001-8	['確認', 'さ']	reltype=before
+A011n_PN4f_00001-9	['捜査', 'し']	reltype=overlap	A011n_PN4f_00001-10	['み']	reltype=overlap
+A011n_PN4f_00001-22	['逮捕', 'し']	reltype=before	A011n_PN4f_00001-23	['いう']	reltype=before
+A011n_PN4f_00001-23	['いう']	reltype=after	A011n_PN4f_00001-24	['殺害', 'し', '疑い']	reltype=after
+A011n_PN4f_00001-25	['死亡', 'し']	reltype=after	A011n_PN4f_00001-26	['一', 'し']	reltype=after
+A011n_PN4f_00001-30	['経', '分']	reltype=before	A011n_PN4f_00001-31	['分かっ']	reltype=before
+A011n_PN4f_00001-31	['分かっ']	reltype=before	A011n_PN4f_00001-32	['立件', 'する', '方針']	reltype=before
+A011n_PN4f_00001-34	['さ', '牛肉', '外']	reltype=before	A011n_PN4f_00001-35	['み']	reltype=before
+A011n_PN4f_00001-35	['み']	reltype=overlap	A011n_PN4f_00001-36	['持た']	reltype=overlap
+

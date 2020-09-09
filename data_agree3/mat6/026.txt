@@ -1,0 +1,6 @@
+A026n_PN3d_00002-5	['表明', 'し']	reltype=after	A026n_PN3d_00002-6	['言明', 'し']	reltype=after
+A026n_PN3d_00002-11	['反論', 'し']	reltype=after	A026n_PN3d_00002-12	['伝え']	reltype=after
+A026n_PN3d_00002-13	['訴え']	reltype=vague	A026n_PN3d_00002-14	['指摘', 'し']	reltype=vague
+A026n_PN3d_00002-14	['指摘', 'し']	reltype=vague	A026n_PN3d_00002-15	['批判', 'し']	reltype=vague
+A026n_PN3d_00002-17	['聞く']	reltype=after	A026n_PN3d_00002-18	['応じ']	reltype=after
+

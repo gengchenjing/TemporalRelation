@@ -1,0 +1,7 @@
+A028n_PN4c_00002-4	['打ち出さ']	reltype=before	A028n_PN4c_00002-5	['検証', 'し']	reltype=before
+A028n_PN4c_00002-10	['減る']	reltype=before	A028n_PN4c_00002-11	['なる']	reltype=before
+A028n_PN4c_00002-20	['見']	reltype=before	A028n_PN4c_00002-21	['なる']	reltype=before
+A028n_PN4c_00002-25	['続い']	reltype=overlap	A028n_PN4c_00002-26	['焦る', '必要', '乏しい']	reltype=overlap
+A028n_PN4c_00002-26	['焦る', '必要', '乏しい']	reltype=vague	A028n_PN4c_00002-27	['判断', 'し']	reltype=vague
+A028n_PN4c_00002-31	['購入', 'し', '人', '対象', 'ある']	reltype=vague	A028n_PN4c_00002-32	['打ち出さ']	reltype=vague
+

@@ -1,0 +1,11 @@
+A030n_PN5a_00002-14	['惜しむ', '会']	reltype=overlap	A030n_PN5a_00002-15	['出演', 'する']	reltype=overlap
+A030n_PN5a_00002-19	['募集', 'し']	reltype=before	A030n_PN5a_00002-20	['上演', 'する']	reltype=before
+A030n_PN5a_00002-37	['行っ', '対策']	reltype=after	A030n_PN5a_00002-38	['あっ']	reltype=after
+A030n_PN5a_00002-38	['あっ']	reltype=before	A030n_PN5a_00002-39	['なっ']	reltype=before
+A030n_PN5a_00002-39	['なっ']	reltype=overlap	A030n_PN5a_00002-40	['見える']	reltype=overlap
+A030n_PN5a_00002-40	['見える']	reltype=overlap	A030n_PN5a_00002-41	['活動', 'し']	reltype=overlap
+A030n_PN5a_00002-43	['確立', 'し']	reltype=after	A030n_PN5a_00002-44	['痛感', 'し']	reltype=after
+A030n_PN5a_00002-44	['痛感', 'し']	reltype=before	A030n_PN5a_00002-45	['利用', 'さ', 'こと']	reltype=before
+A030n_PN5a_00002-46	['取り組ん']	reltype=overlap	A030n_PN5a_00002-47	['いう']	reltype=overlap
+A030n_PN5a_00002-58	['始まっ']	reltype=before	A030n_PN5a_00002-59	['続落', 'し']	reltype=before
+

@@ -1,0 +1,8 @@
+A048n_PN1d_00004-5	['出', '初めて']	reltype=after	A048n_PN1d_00004-6	['負わ']	reltype=after
+A048n_PN1d_00004-8	['かかわっ']	reltype=before	A048n_PN1d_00004-9	['漂う', '秋', '香り']	reltype=before
+A048n_PN1d_00004-12	['通関', 'さ', 'マツタケ', 'トン', '割', '空輸']	reltype=before	A048n_PN1d_00004-13	['移る']	reltype=before
+A048n_PN1d_00004-13	['移る']	reltype=overlap	A048n_PN1d_00004-14	['運ば']	reltype=overlap
+A048n_PN1d_00004-22	['通報', 'し']	reltype=before	A048n_PN1d_00004-23	['駆けつけ', '員', '判断']	reltype=before
+A048n_PN1d_00004-23	['駆けつけ', '員', '判断']	reltype=before	A048n_PN1d_00004-24	['求め']	reltype=before
+A048n_PN1d_00004-24	['求め']	reltype=before	A048n_PN1d_00004-25	['包ま']	reltype=before
+
