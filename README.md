@@ -51,7 +51,7 @@ src/preprocessing/dependency_dct.pyを使って、
 
 4. ラベルをまとめって、54ファイルに分ける
 
-document.py
+python3 document.py
 
 
 
@@ -62,13 +62,13 @@ Fasttext model
 *******************************************
 
 Reprocessing 
-1. Generate files for dct_sdp: make_test_dct.py
-2. Generate string used for sdp: sdp.py/ sdp_mat.py
-3. Generate SDP: dependency_dct.py
+1. Generate files for dct_sdp: python3 make_test_dct.py
+2. Generate string used for sdp: python3 sdp.py(DCT, E2E, T2E)/ python3 sdp_mat.py(MAT)
+3. Generate SDP: python3 dependency_dct.py
 
 Test
 
-1. Train and test : lstm code/ fasttext.py/ mat_sdp.py
+1. Train and test : lstm code/ python3 fasttext.py(DCT, E2E, T2E)/ python3 mat_sdp.py(MAT)
 2. Generating embedding for POS(part-of-speech) : pos_functions_collections.py
 
 *******************************************
