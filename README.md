@@ -18,6 +18,12 @@ gensim
 matplotlib
 itertools
 
+mecab
+
+必要なファイル:　
+BERT - pytorch_model
+FastText - nwjc_word_skip_300_8_25_0_1e4_6_1_0_15.txt.vec
+
 Process:
 
 1. SDPを生成するため
@@ -25,8 +31,11 @@ Process:
 src/merge/BCCWJ-TIMEXファイルから、3人アノテーション一致の識別対象の単語（イベントと時間表現）、インデックス（eiXX）と時間関係(reltype)をとる
 
 DCT: sent_id  event   event_id                      時間関係
+
 T2E: sent_id1 time    time_id     event   event_id  時間関係
+
 E2E: sent_id1 event1  event_id1   event2  event_id2 時間関係
+
 MAT: sent_id1 event1  event_id1   sent_id2  event2  event_id2 時間関係
 
 生成したファイルは/merged/DCT.txt(T2E.txt/ E2E.txt/ MAT.txt)と同じように
@@ -51,6 +60,7 @@ src/preprocessing/dependency_dct.pyを使って、
 
 4. ラベルをまとめって、54ファイルに分ける
 
+python3 count.py
 python3 document.py
 
 
